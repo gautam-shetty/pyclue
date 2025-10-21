@@ -1,0 +1,6402 @@
+{
+  "directed": true,
+  "multigraph": true,
+  "graph": {},
+  "nodes": [
+    {
+      "type": "module",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        0,
+        36
+      ],
+      "start_point": [
+        0,
+        0
+      ],
+      "end_point": [
+        4,
+        6
+      ],
+      "path": "constants.py",
+      "id": "d95f259dca56fd12aa040243"
+    },
+    {
+      "type": "dummy",
+      "field_name": "START",
+      "text": null,
+      "src_bytes_range": [
+        0,
+        36
+      ],
+      "start_point": [
+        0,
+        0
+      ],
+      "end_point": [
+        4,
+        6
+      ],
+      "path": "constants.py",
+      "id": "4937536900753f573b36bbbe"
+    },
+    {
+      "type": "dummy",
+      "field_name": "EXIT",
+      "text": null,
+      "src_bytes_range": [
+        0,
+        36
+      ],
+      "start_point": [
+        0,
+        0
+      ],
+      "end_point": [
+        4,
+        6
+      ],
+      "path": "constants.py",
+      "id": "0bcf2b405e413e6457c6622e"
+    },
+    {
+      "type": "import_statement",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        0,
+        10
+      ],
+      "start_point": [
+        0,
+        0
+      ],
+      "end_point": [
+        0,
+        10
+      ],
+      "id": "8581efcdd13243e828f26df4"
+    },
+    {
+      "type": "import",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        0,
+        6
+      ],
+      "start_point": [
+        0,
+        0
+      ],
+      "end_point": [
+        0,
+        6
+      ],
+      "id": "0823ed56e0a0187a4c80aa9b"
+    },
+    {
+      "type": "dotted_name",
+      "field_name": "name",
+      "text": null,
+      "src_bytes_range": [
+        7,
+        10
+      ],
+      "start_point": [
+        0,
+        7
+      ],
+      "end_point": [
+        0,
+        10
+      ],
+      "id": "dbf4e8374b11a60014919edc"
+    },
+    {
+      "type": "identifier",
+      "field_name": null,
+      "text": "sys",
+      "src_bytes_range": [
+        7,
+        10
+      ],
+      "start_point": [
+        0,
+        7
+      ],
+      "end_point": [
+        0,
+        10
+      ],
+      "id": "a90dee83ceed9d2f78b741eb"
+    },
+    {
+      "type": "expression_statement",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        14,
+        26
+      ],
+      "start_point": [
+        2,
+        0
+      ],
+      "end_point": [
+        2,
+        12
+      ],
+      "id": "3675d3a002a81cb205b632ef"
+    },
+    {
+      "type": "assignment",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        14,
+        26
+      ],
+      "start_point": [
+        2,
+        0
+      ],
+      "end_point": [
+        2,
+        12
+      ],
+      "id": "5aa8af15f0ddfa6a727501ce"
+    },
+    {
+      "type": "identifier",
+      "field_name": "left",
+      "text": "PI",
+      "src_bytes_range": [
+        14,
+        16
+      ],
+      "start_point": [
+        2,
+        0
+      ],
+      "end_point": [
+        2,
+        2
+      ],
+      "id": "de59fb0056390002b3934013"
+    },
+    {
+      "type": "=",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        17,
+        18
+      ],
+      "start_point": [
+        2,
+        3
+      ],
+      "end_point": [
+        2,
+        4
+      ],
+      "id": "70f3c8cc269483ca480b2b46"
+    },
+    {
+      "type": "float",
+      "field_name": "right",
+      "text": "3.14159",
+      "src_bytes_range": [
+        19,
+        26
+      ],
+      "start_point": [
+        2,
+        5
+      ],
+      "end_point": [
+        2,
+        12
+      ],
+      "inferred_type": "float",
+      "id": "bd6e4aa31707ab18ea5cf3fd"
+    },
+    {
+      "type": "expression_statement",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        30,
+        36
+      ],
+      "start_point": [
+        4,
+        0
+      ],
+      "end_point": [
+        4,
+        6
+      ],
+      "id": "35fe256b953b80573974e17e"
+    },
+    {
+      "type": "assignment",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        30,
+        36
+      ],
+      "start_point": [
+        4,
+        0
+      ],
+      "end_point": [
+        4,
+        6
+      ],
+      "id": "d1610e39d5dc48bcf5187297"
+    },
+    {
+      "type": "identifier",
+      "field_name": "left",
+      "text": "x",
+      "src_bytes_range": [
+        30,
+        31
+      ],
+      "start_point": [
+        4,
+        0
+      ],
+      "end_point": [
+        4,
+        1
+      ],
+      "id": "bba07bea89afb4dc7745bbe9"
+    },
+    {
+      "type": "=",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        32,
+        33
+      ],
+      "start_point": [
+        4,
+        2
+      ],
+      "end_point": [
+        4,
+        3
+      ],
+      "id": "05b6e338e63969e3f91f1e3c"
+    },
+    {
+      "type": "identifier",
+      "field_name": "right",
+      "text": "PI",
+      "src_bytes_range": [
+        34,
+        36
+      ],
+      "start_point": [
+        4,
+        4
+      ],
+      "end_point": [
+        4,
+        6
+      ],
+      "id": "d468fa6a0a74de7bb22dbeae"
+    },
+    {
+      "type": "module",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        0,
+        281
+      ],
+      "start_point": [
+        0,
+        0
+      ],
+      "end_point": [
+        10,
+        59
+      ],
+      "path": "main.py",
+      "id": "bd43e8cf9424f13032f657e1"
+    },
+    {
+      "type": "dummy",
+      "field_name": "START",
+      "text": null,
+      "src_bytes_range": [
+        0,
+        281
+      ],
+      "start_point": [
+        0,
+        0
+      ],
+      "end_point": [
+        10,
+        59
+      ],
+      "path": "main.py",
+      "id": "f0e0a49cb78d277b38fa02a5"
+    },
+    {
+      "type": "dummy",
+      "field_name": "EXIT",
+      "text": null,
+      "src_bytes_range": [
+        0,
+        281
+      ],
+      "start_point": [
+        0,
+        0
+      ],
+      "end_point": [
+        10,
+        59
+      ],
+      "path": "main.py",
+      "id": "55459ec7cb77a8a7908387ee"
+    },
+    {
+      "type": "import_from_statement",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        0,
+        33
+      ],
+      "start_point": [
+        0,
+        0
+      ],
+      "end_point": [
+        0,
+        33
+      ],
+      "id": "0bb1e2e9ee49b0c838365ec8"
+    },
+    {
+      "type": "from",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        0,
+        4
+      ],
+      "start_point": [
+        0,
+        0
+      ],
+      "end_point": [
+        0,
+        4
+      ],
+      "id": "a7bf11c7c5ce588fb333050e"
+    },
+    {
+      "type": "dotted_name",
+      "field_name": "module_name",
+      "text": null,
+      "src_bytes_range": [
+        5,
+        11
+      ],
+      "start_point": [
+        0,
+        5
+      ],
+      "end_point": [
+        0,
+        11
+      ],
+      "id": "de3279423b2b5e0fe7028bde"
+    },
+    {
+      "type": "identifier",
+      "field_name": null,
+      "text": "shapes",
+      "src_bytes_range": [
+        5,
+        11
+      ],
+      "start_point": [
+        0,
+        5
+      ],
+      "end_point": [
+        0,
+        11
+      ],
+      "id": "75f7cedee92f3f6158fcc3a6"
+    },
+    {
+      "type": "import",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        12,
+        18
+      ],
+      "start_point": [
+        0,
+        12
+      ],
+      "end_point": [
+        0,
+        18
+      ],
+      "id": "5a14416bdac32c2316fb9789"
+    },
+    {
+      "type": "dotted_name",
+      "field_name": "name",
+      "text": null,
+      "src_bytes_range": [
+        19,
+        25
+      ],
+      "start_point": [
+        0,
+        19
+      ],
+      "end_point": [
+        0,
+        25
+      ],
+      "id": "ec026192c28fec63144a3750"
+    },
+    {
+      "type": "identifier",
+      "field_name": null,
+      "text": "Square",
+      "src_bytes_range": [
+        19,
+        25
+      ],
+      "start_point": [
+        0,
+        19
+      ],
+      "end_point": [
+        0,
+        25
+      ],
+      "id": "13a8b594815f7ad30dfd04bc"
+    },
+    {
+      "type": ",",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        25,
+        26
+      ],
+      "start_point": [
+        0,
+        25
+      ],
+      "end_point": [
+        0,
+        26
+      ],
+      "id": "b353be3f2982a3b4d397adfe"
+    },
+    {
+      "type": "dotted_name",
+      "field_name": "name",
+      "text": null,
+      "src_bytes_range": [
+        27,
+        33
+      ],
+      "start_point": [
+        0,
+        27
+      ],
+      "end_point": [
+        0,
+        33
+      ],
+      "id": "8f2fa8bb87a5e3463ef5c33b"
+    },
+    {
+      "type": "identifier",
+      "field_name": null,
+      "text": "Circle",
+      "src_bytes_range": [
+        27,
+        33
+      ],
+      "start_point": [
+        0,
+        27
+      ],
+      "end_point": [
+        0,
+        33
+      ],
+      "id": "39b20b5706a1d8875cf9efc2"
+    },
+    {
+      "type": "expression_statement",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        37,
+        52
+      ],
+      "start_point": [
+        2,
+        0
+      ],
+      "end_point": [
+        2,
+        15
+      ],
+      "id": "18939da7879c897a4db59256"
+    },
+    {
+      "type": "assignment",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        37,
+        52
+      ],
+      "start_point": [
+        2,
+        0
+      ],
+      "end_point": [
+        2,
+        15
+      ],
+      "id": "54fde77c7a8f4366f82f1b1c"
+    },
+    {
+      "type": "identifier",
+      "field_name": "left",
+      "text": "side_length",
+      "src_bytes_range": [
+        37,
+        48
+      ],
+      "start_point": [
+        2,
+        0
+      ],
+      "end_point": [
+        2,
+        11
+      ],
+      "id": "b9151940b2553a42068adb68"
+    },
+    {
+      "type": "=",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        49,
+        50
+      ],
+      "start_point": [
+        2,
+        12
+      ],
+      "end_point": [
+        2,
+        13
+      ],
+      "id": "303d423926b792e4d7ce1437"
+    },
+    {
+      "type": "integer",
+      "field_name": "right",
+      "text": "5",
+      "src_bytes_range": [
+        51,
+        52
+      ],
+      "start_point": [
+        2,
+        14
+      ],
+      "end_point": [
+        2,
+        15
+      ],
+      "inferred_type": "integer",
+      "id": "b1ad321549a6f38998b59e15"
+    },
+    {
+      "type": "expression_statement",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        54,
+        64
+      ],
+      "start_point": [
+        3,
+        0
+      ],
+      "end_point": [
+        3,
+        10
+      ],
+      "id": "5e16f9c780de7c80837d80e0"
+    },
+    {
+      "type": "assignment",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        54,
+        64
+      ],
+      "start_point": [
+        3,
+        0
+      ],
+      "end_point": [
+        3,
+        10
+      ],
+      "id": "500db7dd8d7fa0d7b617d3e8"
+    },
+    {
+      "type": "identifier",
+      "field_name": "left",
+      "text": "radius",
+      "src_bytes_range": [
+        54,
+        60
+      ],
+      "start_point": [
+        3,
+        0
+      ],
+      "end_point": [
+        3,
+        6
+      ],
+      "id": "08113fee4b968f563a45e31a"
+    },
+    {
+      "type": "=",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        61,
+        62
+      ],
+      "start_point": [
+        3,
+        7
+      ],
+      "end_point": [
+        3,
+        8
+      ],
+      "id": "dbee17678261c5e22a679967"
+    },
+    {
+      "type": "integer",
+      "field_name": "right",
+      "text": "3",
+      "src_bytes_range": [
+        63,
+        64
+      ],
+      "start_point": [
+        3,
+        9
+      ],
+      "end_point": [
+        3,
+        10
+      ],
+      "inferred_type": "integer",
+      "id": "7a2f862bcd02df00d0effbd1"
+    },
+    {
+      "type": "if_statement",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        68,
+        281
+      ],
+      "start_point": [
+        5,
+        0
+      ],
+      "end_point": [
+        10,
+        59
+      ],
+      "id": "fa0dd615a4faa630a02de9ce"
+    },
+    {
+      "type": "if",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        68,
+        70
+      ],
+      "start_point": [
+        5,
+        0
+      ],
+      "end_point": [
+        5,
+        2
+      ],
+      "id": "102b7321cbfbb35b0b331e39"
+    },
+    {
+      "type": "comparison_operator",
+      "field_name": "condition",
+      "text": null,
+      "src_bytes_range": [
+        71,
+        93
+      ],
+      "start_point": [
+        5,
+        3
+      ],
+      "end_point": [
+        5,
+        25
+      ],
+      "id": "ca88ab24eb4b00e36cf6d6f2"
+    },
+    {
+      "type": "identifier",
+      "field_name": null,
+      "text": "__name__",
+      "src_bytes_range": [
+        71,
+        79
+      ],
+      "start_point": [
+        5,
+        3
+      ],
+      "end_point": [
+        5,
+        11
+      ],
+      "id": "a9a15f46bbd6fc8d45bde0e5"
+    },
+    {
+      "type": "==",
+      "field_name": "operators",
+      "text": null,
+      "src_bytes_range": [
+        80,
+        82
+      ],
+      "start_point": [
+        5,
+        12
+      ],
+      "end_point": [
+        5,
+        14
+      ],
+      "id": "3d3970ef7667aeafa54bb06c"
+    },
+    {
+      "type": "string",
+      "field_name": null,
+      "text": "\"__main__\"",
+      "src_bytes_range": [
+        83,
+        93
+      ],
+      "start_point": [
+        5,
+        15
+      ],
+      "end_point": [
+        5,
+        25
+      ],
+      "inferred_type": "string",
+      "id": "76ea9918ee5702203c5de62f"
+    },
+    {
+      "type": "string_start",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        83,
+        84
+      ],
+      "start_point": [
+        5,
+        15
+      ],
+      "end_point": [
+        5,
+        16
+      ],
+      "id": "5a5b2672a2609b81e2ac5d56"
+    },
+    {
+      "type": "string_content",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        84,
+        92
+      ],
+      "start_point": [
+        5,
+        16
+      ],
+      "end_point": [
+        5,
+        24
+      ],
+      "id": "046b8f6d960c28a9c54b86cc"
+    },
+    {
+      "type": "string_end",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        92,
+        93
+      ],
+      "start_point": [
+        5,
+        24
+      ],
+      "end_point": [
+        5,
+        25
+      ],
+      "id": "38e235505a619510af8acc29"
+    },
+    {
+      "type": ":",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        93,
+        94
+      ],
+      "start_point": [
+        5,
+        25
+      ],
+      "end_point": [
+        5,
+        26
+      ],
+      "id": "261c164fbf6d58bcfc925273"
+    },
+    {
+      "type": "block",
+      "field_name": "consequence",
+      "text": null,
+      "src_bytes_range": [
+        100,
+        281
+      ],
+      "start_point": [
+        6,
+        4
+      ],
+      "end_point": [
+        10,
+        59
+      ],
+      "id": "bdebf721254901b116099040"
+    },
+    {
+      "type": "expression_statement",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        100,
+        128
+      ],
+      "start_point": [
+        6,
+        4
+      ],
+      "end_point": [
+        6,
+        32
+      ],
+      "id": "08b5e0bd60ef59de112f8258"
+    },
+    {
+      "type": "assignment",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        100,
+        128
+      ],
+      "start_point": [
+        6,
+        4
+      ],
+      "end_point": [
+        6,
+        32
+      ],
+      "id": "c799f7292e5eec280773c771"
+    },
+    {
+      "type": "identifier",
+      "field_name": "left",
+      "text": "square",
+      "src_bytes_range": [
+        100,
+        106
+      ],
+      "start_point": [
+        6,
+        4
+      ],
+      "end_point": [
+        6,
+        10
+      ],
+      "id": "eb8381838223846fafe49cd7"
+    },
+    {
+      "type": "=",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        107,
+        108
+      ],
+      "start_point": [
+        6,
+        11
+      ],
+      "end_point": [
+        6,
+        12
+      ],
+      "id": "f6f7345c3a8bda5200293c7d"
+    },
+    {
+      "type": "call",
+      "field_name": "right",
+      "text": null,
+      "src_bytes_range": [
+        109,
+        128
+      ],
+      "start_point": [
+        6,
+        13
+      ],
+      "end_point": [
+        6,
+        32
+      ],
+      "id": "50ed030ae224ca28a8cd0898"
+    },
+    {
+      "type": "identifier",
+      "field_name": "function",
+      "text": "Square",
+      "src_bytes_range": [
+        109,
+        115
+      ],
+      "start_point": [
+        6,
+        13
+      ],
+      "end_point": [
+        6,
+        19
+      ],
+      "id": "0a08535a253ac82de86487d6"
+    },
+    {
+      "type": "argument_list",
+      "field_name": "arguments",
+      "text": null,
+      "src_bytes_range": [
+        115,
+        128
+      ],
+      "start_point": [
+        6,
+        19
+      ],
+      "end_point": [
+        6,
+        32
+      ],
+      "id": "2733e222ef0ec6435c593a0f"
+    },
+    {
+      "type": "(",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        115,
+        116
+      ],
+      "start_point": [
+        6,
+        19
+      ],
+      "end_point": [
+        6,
+        20
+      ],
+      "id": "3fcb89fe7eca25c601fdfbee"
+    },
+    {
+      "type": "identifier",
+      "field_name": null,
+      "text": "side_length",
+      "src_bytes_range": [
+        116,
+        127
+      ],
+      "start_point": [
+        6,
+        20
+      ],
+      "end_point": [
+        6,
+        31
+      ],
+      "id": "1025085241711a446869d30e"
+    },
+    {
+      "type": ")",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        127,
+        128
+      ],
+      "start_point": [
+        6,
+        31
+      ],
+      "end_point": [
+        6,
+        32
+      ],
+      "id": "2e532e5f225afda5682e025c"
+    },
+    {
+      "type": "expression_statement",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        134,
+        157
+      ],
+      "start_point": [
+        7,
+        4
+      ],
+      "end_point": [
+        7,
+        27
+      ],
+      "id": "93b333b87633585d389d6165"
+    },
+    {
+      "type": "assignment",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        134,
+        157
+      ],
+      "start_point": [
+        7,
+        4
+      ],
+      "end_point": [
+        7,
+        27
+      ],
+      "id": "1bcbf0a30cf988f7ab6ddbec"
+    },
+    {
+      "type": "identifier",
+      "field_name": "left",
+      "text": "circle",
+      "src_bytes_range": [
+        134,
+        140
+      ],
+      "start_point": [
+        7,
+        4
+      ],
+      "end_point": [
+        7,
+        10
+      ],
+      "id": "81b304d34f8999c14e1a0aa9"
+    },
+    {
+      "type": "=",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        141,
+        142
+      ],
+      "start_point": [
+        7,
+        11
+      ],
+      "end_point": [
+        7,
+        12
+      ],
+      "id": "66ab4354d106d404c1335334"
+    },
+    {
+      "type": "call",
+      "field_name": "right",
+      "text": null,
+      "src_bytes_range": [
+        143,
+        157
+      ],
+      "start_point": [
+        7,
+        13
+      ],
+      "end_point": [
+        7,
+        27
+      ],
+      "id": "e70a5f4a13ed29cdfd3a99d1"
+    },
+    {
+      "type": "identifier",
+      "field_name": "function",
+      "text": "Circle",
+      "src_bytes_range": [
+        143,
+        149
+      ],
+      "start_point": [
+        7,
+        13
+      ],
+      "end_point": [
+        7,
+        19
+      ],
+      "id": "27bbe5f52ed6012b80552632"
+    },
+    {
+      "type": "argument_list",
+      "field_name": "arguments",
+      "text": null,
+      "src_bytes_range": [
+        149,
+        157
+      ],
+      "start_point": [
+        7,
+        19
+      ],
+      "end_point": [
+        7,
+        27
+      ],
+      "id": "b0bfa493c2e3419988a42210"
+    },
+    {
+      "type": "(",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        149,
+        150
+      ],
+      "start_point": [
+        7,
+        19
+      ],
+      "end_point": [
+        7,
+        20
+      ],
+      "id": "ca4f33dec20df50c9f202c79"
+    },
+    {
+      "type": "identifier",
+      "field_name": null,
+      "text": "radius",
+      "src_bytes_range": [
+        150,
+        156
+      ],
+      "start_point": [
+        7,
+        20
+      ],
+      "end_point": [
+        7,
+        26
+      ],
+      "id": "85a43c7f1a2bd7b45500c599"
+    },
+    {
+      "type": ")",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        156,
+        157
+      ],
+      "start_point": [
+        7,
+        26
+      ],
+      "end_point": [
+        7,
+        27
+      ],
+      "id": "23ef58dfa43b3dd6c8fdeb3f"
+    },
+    {
+      "type": "expression_statement",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        165,
+        220
+      ],
+      "start_point": [
+        9,
+        4
+      ],
+      "end_point": [
+        9,
+        59
+      ],
+      "id": "fd4e9b417ea2043655ab7292"
+    },
+    {
+      "type": "call",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        165,
+        220
+      ],
+      "start_point": [
+        9,
+        4
+      ],
+      "end_point": [
+        9,
+        59
+      ],
+      "id": "89bbedfb644520eecaa7b27e"
+    },
+    {
+      "type": "identifier",
+      "field_name": "function",
+      "text": "print",
+      "src_bytes_range": [
+        165,
+        170
+      ],
+      "start_point": [
+        9,
+        4
+      ],
+      "end_point": [
+        9,
+        9
+      ],
+      "id": "cde81688738759969411a557"
+    },
+    {
+      "type": "argument_list",
+      "field_name": "arguments",
+      "text": null,
+      "src_bytes_range": [
+        170,
+        220
+      ],
+      "start_point": [
+        9,
+        9
+      ],
+      "end_point": [
+        9,
+        59
+      ],
+      "id": "f993c5a73483faebfd9e11fe"
+    },
+    {
+      "type": "(",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        170,
+        171
+      ],
+      "start_point": [
+        9,
+        9
+      ],
+      "end_point": [
+        9,
+        10
+      ],
+      "id": "43f6d7224dc274966ada5112"
+    },
+    {
+      "type": "string",
+      "field_name": null,
+      "text": "f\"Area of the square: {square.calculate_area()}\"",
+      "src_bytes_range": [
+        171,
+        219
+      ],
+      "start_point": [
+        9,
+        10
+      ],
+      "end_point": [
+        9,
+        58
+      ],
+      "inferred_type": "string",
+      "id": "369b39c9c06f724ed2e2802e"
+    },
+    {
+      "type": "string_start",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        171,
+        173
+      ],
+      "start_point": [
+        9,
+        10
+      ],
+      "end_point": [
+        9,
+        12
+      ],
+      "id": "430d2444604148db204cb15c"
+    },
+    {
+      "type": "string_content",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        173,
+        193
+      ],
+      "start_point": [
+        9,
+        12
+      ],
+      "end_point": [
+        9,
+        32
+      ],
+      "id": "118d791cda1ad4b1366f5a1d"
+    },
+    {
+      "type": "interpolation",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        193,
+        218
+      ],
+      "start_point": [
+        9,
+        32
+      ],
+      "end_point": [
+        9,
+        57
+      ],
+      "id": "9e0ae00c9d548cadaa99c98d"
+    },
+    {
+      "type": "{",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        193,
+        194
+      ],
+      "start_point": [
+        9,
+        32
+      ],
+      "end_point": [
+        9,
+        33
+      ],
+      "id": "8189fafbd180e09004d81580"
+    },
+    {
+      "type": "call",
+      "field_name": "expression",
+      "text": null,
+      "src_bytes_range": [
+        194,
+        217
+      ],
+      "start_point": [
+        9,
+        33
+      ],
+      "end_point": [
+        9,
+        56
+      ],
+      "id": "03f113f57fb75d4662e65dd9"
+    },
+    {
+      "type": "attribute",
+      "field_name": "function",
+      "text": null,
+      "src_bytes_range": [
+        194,
+        215
+      ],
+      "start_point": [
+        9,
+        33
+      ],
+      "end_point": [
+        9,
+        54
+      ],
+      "id": "71ba9b293ff2d40288dcd1ea"
+    },
+    {
+      "type": "identifier",
+      "field_name": "object",
+      "text": "square",
+      "src_bytes_range": [
+        194,
+        200
+      ],
+      "start_point": [
+        9,
+        33
+      ],
+      "end_point": [
+        9,
+        39
+      ],
+      "id": "ecfbcf677a9bcfcb47efe075"
+    },
+    {
+      "type": ".",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        200,
+        201
+      ],
+      "start_point": [
+        9,
+        39
+      ],
+      "end_point": [
+        9,
+        40
+      ],
+      "id": "8616bd935449df05f45d4d1a"
+    },
+    {
+      "type": "identifier",
+      "field_name": "attribute",
+      "text": "calculate_area",
+      "src_bytes_range": [
+        201,
+        215
+      ],
+      "start_point": [
+        9,
+        40
+      ],
+      "end_point": [
+        9,
+        54
+      ],
+      "id": "1785d46a178d56a702019cab"
+    },
+    {
+      "type": "argument_list",
+      "field_name": "arguments",
+      "text": null,
+      "src_bytes_range": [
+        215,
+        217
+      ],
+      "start_point": [
+        9,
+        54
+      ],
+      "end_point": [
+        9,
+        56
+      ],
+      "id": "c75421188dc8e6386058f787"
+    },
+    {
+      "type": "(",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        215,
+        216
+      ],
+      "start_point": [
+        9,
+        54
+      ],
+      "end_point": [
+        9,
+        55
+      ],
+      "id": "b172b448723c1d39d2e1871d"
+    },
+    {
+      "type": ")",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        216,
+        217
+      ],
+      "start_point": [
+        9,
+        55
+      ],
+      "end_point": [
+        9,
+        56
+      ],
+      "id": "7b827811a0148fa00b27f842"
+    },
+    {
+      "type": "}",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        217,
+        218
+      ],
+      "start_point": [
+        9,
+        56
+      ],
+      "end_point": [
+        9,
+        57
+      ],
+      "id": "832f024270092381a716059b"
+    },
+    {
+      "type": "string_end",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        218,
+        219
+      ],
+      "start_point": [
+        9,
+        57
+      ],
+      "end_point": [
+        9,
+        58
+      ],
+      "id": "236eb009578fa3a4518842d2"
+    },
+    {
+      "type": ")",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        219,
+        220
+      ],
+      "start_point": [
+        9,
+        58
+      ],
+      "end_point": [
+        9,
+        59
+      ],
+      "id": "8c68c3e5817b16666dfab3fc"
+    },
+    {
+      "type": "expression_statement",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        226,
+        281
+      ],
+      "start_point": [
+        10,
+        4
+      ],
+      "end_point": [
+        10,
+        59
+      ],
+      "id": "2bf17aa59b18ebb933147316"
+    },
+    {
+      "type": "call",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        226,
+        281
+      ],
+      "start_point": [
+        10,
+        4
+      ],
+      "end_point": [
+        10,
+        59
+      ],
+      "id": "b1e2f572ba7c8fdf34e63892"
+    },
+    {
+      "type": "identifier",
+      "field_name": "function",
+      "text": "print",
+      "src_bytes_range": [
+        226,
+        231
+      ],
+      "start_point": [
+        10,
+        4
+      ],
+      "end_point": [
+        10,
+        9
+      ],
+      "id": "61bb273bc550f82edbd60ab7"
+    },
+    {
+      "type": "argument_list",
+      "field_name": "arguments",
+      "text": null,
+      "src_bytes_range": [
+        231,
+        281
+      ],
+      "start_point": [
+        10,
+        9
+      ],
+      "end_point": [
+        10,
+        59
+      ],
+      "id": "dd06c41d777bc8b1150c8bb0"
+    },
+    {
+      "type": "(",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        231,
+        232
+      ],
+      "start_point": [
+        10,
+        9
+      ],
+      "end_point": [
+        10,
+        10
+      ],
+      "id": "8f40067675c34bea60992081"
+    },
+    {
+      "type": "string",
+      "field_name": null,
+      "text": "f\"Area of the circle: {circle.calculate_area()}\"",
+      "src_bytes_range": [
+        232,
+        280
+      ],
+      "start_point": [
+        10,
+        10
+      ],
+      "end_point": [
+        10,
+        58
+      ],
+      "inferred_type": "string",
+      "id": "df2f6268b44c60dc35c5e169"
+    },
+    {
+      "type": "string_start",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        232,
+        234
+      ],
+      "start_point": [
+        10,
+        10
+      ],
+      "end_point": [
+        10,
+        12
+      ],
+      "id": "39bae8f9e2d98d661fd0a807"
+    },
+    {
+      "type": "string_content",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        234,
+        254
+      ],
+      "start_point": [
+        10,
+        12
+      ],
+      "end_point": [
+        10,
+        32
+      ],
+      "id": "2b7a4e5da89306fa82b6bba1"
+    },
+    {
+      "type": "interpolation",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        254,
+        279
+      ],
+      "start_point": [
+        10,
+        32
+      ],
+      "end_point": [
+        10,
+        57
+      ],
+      "id": "77b44a764b97faeb20dd5d2c"
+    },
+    {
+      "type": "{",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        254,
+        255
+      ],
+      "start_point": [
+        10,
+        32
+      ],
+      "end_point": [
+        10,
+        33
+      ],
+      "id": "d591ecab094b1aeef93442e9"
+    },
+    {
+      "type": "call",
+      "field_name": "expression",
+      "text": null,
+      "src_bytes_range": [
+        255,
+        278
+      ],
+      "start_point": [
+        10,
+        33
+      ],
+      "end_point": [
+        10,
+        56
+      ],
+      "id": "65b90a33e420c48f427a7cf8"
+    },
+    {
+      "type": "attribute",
+      "field_name": "function",
+      "text": null,
+      "src_bytes_range": [
+        255,
+        276
+      ],
+      "start_point": [
+        10,
+        33
+      ],
+      "end_point": [
+        10,
+        54
+      ],
+      "id": "08dffce9a9ab474059d13b51"
+    },
+    {
+      "type": "identifier",
+      "field_name": "object",
+      "text": "circle",
+      "src_bytes_range": [
+        255,
+        261
+      ],
+      "start_point": [
+        10,
+        33
+      ],
+      "end_point": [
+        10,
+        39
+      ],
+      "id": "8993d31c4b0682db8df93755"
+    },
+    {
+      "type": ".",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        261,
+        262
+      ],
+      "start_point": [
+        10,
+        39
+      ],
+      "end_point": [
+        10,
+        40
+      ],
+      "id": "d0cdbf726340868efe9a1863"
+    },
+    {
+      "type": "identifier",
+      "field_name": "attribute",
+      "text": "calculate_area",
+      "src_bytes_range": [
+        262,
+        276
+      ],
+      "start_point": [
+        10,
+        40
+      ],
+      "end_point": [
+        10,
+        54
+      ],
+      "id": "93e69960e27c3c6d0206a1ea"
+    },
+    {
+      "type": "argument_list",
+      "field_name": "arguments",
+      "text": null,
+      "src_bytes_range": [
+        276,
+        278
+      ],
+      "start_point": [
+        10,
+        54
+      ],
+      "end_point": [
+        10,
+        56
+      ],
+      "id": "593fa8c4653ecd4aa6564c7b"
+    },
+    {
+      "type": "(",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        276,
+        277
+      ],
+      "start_point": [
+        10,
+        54
+      ],
+      "end_point": [
+        10,
+        55
+      ],
+      "id": "5f86a392c58666b2abba417b"
+    },
+    {
+      "type": ")",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        277,
+        278
+      ],
+      "start_point": [
+        10,
+        55
+      ],
+      "end_point": [
+        10,
+        56
+      ],
+      "id": "97b7e7453011190f25205fe6"
+    },
+    {
+      "type": "}",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        278,
+        279
+      ],
+      "start_point": [
+        10,
+        56
+      ],
+      "end_point": [
+        10,
+        57
+      ],
+      "id": "c06f86d804ec7572fab6a42d"
+    },
+    {
+      "type": "string_end",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        279,
+        280
+      ],
+      "start_point": [
+        10,
+        57
+      ],
+      "end_point": [
+        10,
+        58
+      ],
+      "id": "6b9c617997fef5223c01e690"
+    },
+    {
+      "type": ")",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        280,
+        281
+      ],
+      "start_point": [
+        10,
+        58
+      ],
+      "end_point": [
+        10,
+        59
+      ],
+      "id": "294c8720497c1520a482740a"
+    },
+    {
+      "type": "module",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        0,
+        510
+      ],
+      "start_point": [
+        0,
+        0
+      ],
+      "end_point": [
+        21,
+        36
+      ],
+      "path": "shapes.py",
+      "id": "0909a202e98233b33858a4cf"
+    },
+    {
+      "type": "dummy",
+      "field_name": "START",
+      "text": null,
+      "src_bytes_range": [
+        0,
+        510
+      ],
+      "start_point": [
+        0,
+        0
+      ],
+      "end_point": [
+        21,
+        36
+      ],
+      "path": "shapes.py",
+      "id": "be64162f0757fcd76b4e02ce"
+    },
+    {
+      "type": "dummy",
+      "field_name": "EXIT",
+      "text": null,
+      "src_bytes_range": [
+        0,
+        510
+      ],
+      "start_point": [
+        0,
+        0
+      ],
+      "end_point": [
+        21,
+        36
+      ],
+      "path": "shapes.py",
+      "id": "0bb424548bb9adc72f5cf788"
+    },
+    {
+      "type": "import_from_statement",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        0,
+        31
+      ],
+      "start_point": [
+        0,
+        0
+      ],
+      "end_point": [
+        0,
+        31
+      ],
+      "id": "3cf2d441d442ea0d284d7c2d"
+    },
+    {
+      "type": "from",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        0,
+        4
+      ],
+      "start_point": [
+        0,
+        0
+      ],
+      "end_point": [
+        0,
+        4
+      ],
+      "id": "d556c7d489251e13d4dceab1"
+    },
+    {
+      "type": "dotted_name",
+      "field_name": "module_name",
+      "text": null,
+      "src_bytes_range": [
+        5,
+        21
+      ],
+      "start_point": [
+        0,
+        5
+      ],
+      "end_point": [
+        0,
+        21
+      ],
+      "id": "cf52cf996fecbb0d9aea0be9"
+    },
+    {
+      "type": "identifier",
+      "field_name": null,
+      "text": "pyclue",
+      "src_bytes_range": [
+        5,
+        11
+      ],
+      "start_point": [
+        0,
+        5
+      ],
+      "end_point": [
+        0,
+        11
+      ],
+      "id": "fab36a1dcd2afbce0e3fe915"
+    },
+    {
+      "type": ".",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        11,
+        12
+      ],
+      "start_point": [
+        0,
+        11
+      ],
+      "end_point": [
+        0,
+        12
+      ],
+      "id": "44349320bb47c274cf322e3c"
+    },
+    {
+      "type": "identifier",
+      "field_name": null,
+      "text": "constants",
+      "src_bytes_range": [
+        12,
+        21
+      ],
+      "start_point": [
+        0,
+        12
+      ],
+      "end_point": [
+        0,
+        21
+      ],
+      "id": "26c1255b1adc141db6fef008"
+    },
+    {
+      "type": "import",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        22,
+        28
+      ],
+      "start_point": [
+        0,
+        22
+      ],
+      "end_point": [
+        0,
+        28
+      ],
+      "id": "44f8fe6fbb30b7857f910f6a"
+    },
+    {
+      "type": "dotted_name",
+      "field_name": "name",
+      "text": null,
+      "src_bytes_range": [
+        29,
+        31
+      ],
+      "start_point": [
+        0,
+        29
+      ],
+      "end_point": [
+        0,
+        31
+      ],
+      "id": "640bbf14a1de53753e065fa6"
+    },
+    {
+      "type": "identifier",
+      "field_name": null,
+      "text": "PI",
+      "src_bytes_range": [
+        29,
+        31
+      ],
+      "start_point": [
+        0,
+        29
+      ],
+      "end_point": [
+        0,
+        31
+      ],
+      "id": "e5f7aba642f75329ea1f8262"
+    },
+    {
+      "type": "expression_statement",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        35,
+        44
+      ],
+      "start_point": [
+        2,
+        0
+      ],
+      "end_point": [
+        2,
+        9
+      ],
+      "id": "4cab14e3d20e30fb9a3dd4c5"
+    },
+    {
+      "type": "assignment",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        35,
+        44
+      ],
+      "start_point": [
+        2,
+        0
+      ],
+      "end_point": [
+        2,
+        9
+      ],
+      "id": "82966e3d000c5ed40995cb36"
+    },
+    {
+      "type": "identifier",
+      "field_name": "left",
+      "text": "TEMP",
+      "src_bytes_range": [
+        35,
+        39
+      ],
+      "start_point": [
+        2,
+        0
+      ],
+      "end_point": [
+        2,
+        4
+      ],
+      "id": "dcee4af70cd848ddb01cd6a6"
+    },
+    {
+      "type": "=",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        40,
+        41
+      ],
+      "start_point": [
+        2,
+        5
+      ],
+      "end_point": [
+        2,
+        6
+      ],
+      "id": "bb099b86e59138c67f43b1e5"
+    },
+    {
+      "type": "integer",
+      "field_name": "right",
+      "text": "99",
+      "src_bytes_range": [
+        42,
+        44
+      ],
+      "start_point": [
+        2,
+        7
+      ],
+      "end_point": [
+        2,
+        9
+      ],
+      "inferred_type": "integer",
+      "id": "b368ed2443217d6f19dc4f37"
+    },
+    {
+      "type": "class_definition",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        48,
+        354
+      ],
+      "start_point": [
+        4,
+        0
+      ],
+      "end_point": [
+        14,
+        40
+      ],
+      "id": "55bf48da5eef594af1085d9a"
+    },
+    {
+      "type": "dummy",
+      "field_name": "START",
+      "text": null,
+      "src_bytes_range": [
+        48,
+        354
+      ],
+      "start_point": [
+        4,
+        0
+      ],
+      "end_point": [
+        14,
+        40
+      ],
+      "id": "9e4426f28eb0df4ec8426a34"
+    },
+    {
+      "type": "dummy",
+      "field_name": "EXIT",
+      "text": null,
+      "src_bytes_range": [
+        48,
+        354
+      ],
+      "start_point": [
+        4,
+        0
+      ],
+      "end_point": [
+        14,
+        40
+      ],
+      "id": "1ecbf02681757434fd8da488"
+    },
+    {
+      "type": "class",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        48,
+        53
+      ],
+      "start_point": [
+        4,
+        0
+      ],
+      "end_point": [
+        4,
+        5
+      ],
+      "id": "7ac6fb6db9ce95ed9d966c70"
+    },
+    {
+      "type": "identifier",
+      "field_name": "name",
+      "text": "Square",
+      "src_bytes_range": [
+        54,
+        60
+      ],
+      "start_point": [
+        4,
+        6
+      ],
+      "end_point": [
+        4,
+        12
+      ],
+      "id": "cc2e6341872b0b9184675910"
+    },
+    {
+      "type": ":",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        60,
+        61
+      ],
+      "start_point": [
+        4,
+        12
+      ],
+      "end_point": [
+        4,
+        13
+      ],
+      "id": "c3e971409ddbbed259b53e03"
+    },
+    {
+      "type": "block",
+      "field_name": "body",
+      "text": null,
+      "src_bytes_range": [
+        67,
+        354
+      ],
+      "start_point": [
+        5,
+        4
+      ],
+      "end_point": [
+        14,
+        40
+      ],
+      "id": "1034d51123ebb6185988cb36"
+    },
+    {
+      "type": "function_definition",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        67,
+        146
+      ],
+      "start_point": [
+        5,
+        4
+      ],
+      "end_point": [
+        6,
+        38
+      ],
+      "id": "123386a213623a7c31434d31"
+    },
+    {
+      "type": "dummy",
+      "field_name": "ENTRY",
+      "text": null,
+      "src_bytes_range": [
+        67,
+        146
+      ],
+      "start_point": [
+        5,
+        4
+      ],
+      "end_point": [
+        6,
+        38
+      ],
+      "id": "c9ddbf4f77d219f909e7ff65"
+    },
+    {
+      "type": "dummy",
+      "field_name": "RETURN",
+      "text": null,
+      "src_bytes_range": [
+        67,
+        146
+      ],
+      "start_point": [
+        5,
+        4
+      ],
+      "end_point": [
+        6,
+        38
+      ],
+      "id": "6c5f624125a013474ca0e964"
+    },
+    {
+      "type": "def",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        67,
+        70
+      ],
+      "start_point": [
+        5,
+        4
+      ],
+      "end_point": [
+        5,
+        7
+      ],
+      "id": "4b3dca76683b2a195ace3139"
+    },
+    {
+      "type": "identifier",
+      "field_name": "name",
+      "text": "__init__",
+      "src_bytes_range": [
+        71,
+        79
+      ],
+      "start_point": [
+        5,
+        8
+      ],
+      "end_point": [
+        5,
+        16
+      ],
+      "id": "e25d45b26f6cb9245fe54b1a"
+    },
+    {
+      "type": "parameters",
+      "field_name": "parameters",
+      "text": null,
+      "src_bytes_range": [
+        79,
+        105
+      ],
+      "start_point": [
+        5,
+        16
+      ],
+      "end_point": [
+        5,
+        42
+      ],
+      "id": "49973d55084cfe4ab255462f"
+    },
+    {
+      "type": "(",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        79,
+        80
+      ],
+      "start_point": [
+        5,
+        16
+      ],
+      "end_point": [
+        5,
+        17
+      ],
+      "id": "9b242376575ad73245cecbab"
+    },
+    {
+      "type": "identifier",
+      "field_name": null,
+      "text": "self",
+      "src_bytes_range": [
+        80,
+        84
+      ],
+      "start_point": [
+        5,
+        17
+      ],
+      "end_point": [
+        5,
+        21
+      ],
+      "id": "52fbbc72936b924a4377e150"
+    },
+    {
+      "type": ",",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        84,
+        85
+      ],
+      "start_point": [
+        5,
+        21
+      ],
+      "end_point": [
+        5,
+        22
+      ],
+      "id": "809f820dbaec678a2d0f4394"
+    },
+    {
+      "type": "default_parameter",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        86,
+        104
+      ],
+      "start_point": [
+        5,
+        23
+      ],
+      "end_point": [
+        5,
+        41
+      ],
+      "id": "a4f9922b90a9a7fc09df0cba"
+    },
+    {
+      "type": "identifier",
+      "field_name": "name",
+      "text": "side_length",
+      "src_bytes_range": [
+        86,
+        97
+      ],
+      "start_point": [
+        5,
+        23
+      ],
+      "end_point": [
+        5,
+        34
+      ],
+      "id": "0d397e3728a687a911652d6f"
+    },
+    {
+      "type": "=",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        98,
+        99
+      ],
+      "start_point": [
+        5,
+        35
+      ],
+      "end_point": [
+        5,
+        36
+      ],
+      "id": "5bdcd8d72b8e8b8e1627583e"
+    },
+    {
+      "type": "identifier",
+      "field_name": "value",
+      "text": "TEMP",
+      "src_bytes_range": [
+        100,
+        104
+      ],
+      "start_point": [
+        5,
+        37
+      ],
+      "end_point": [
+        5,
+        41
+      ],
+      "id": "13358381e381467ccd52a723"
+    },
+    {
+      "type": ")",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        104,
+        105
+      ],
+      "start_point": [
+        5,
+        41
+      ],
+      "end_point": [
+        5,
+        42
+      ],
+      "id": "1ebc195c1d38713b03437669"
+    },
+    {
+      "type": ":",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        105,
+        106
+      ],
+      "start_point": [
+        5,
+        42
+      ],
+      "end_point": [
+        5,
+        43
+      ],
+      "id": "d2954398eb4882781e93c3d9"
+    },
+    {
+      "type": "block",
+      "field_name": "body",
+      "text": null,
+      "src_bytes_range": [
+        116,
+        146
+      ],
+      "start_point": [
+        6,
+        8
+      ],
+      "end_point": [
+        6,
+        38
+      ],
+      "id": "3fefa984fc6fb9b7304111f3"
+    },
+    {
+      "type": "expression_statement",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        116,
+        146
+      ],
+      "start_point": [
+        6,
+        8
+      ],
+      "end_point": [
+        6,
+        38
+      ],
+      "id": "6c89b88da6a5aabe6aaa2404"
+    },
+    {
+      "type": "assignment",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        116,
+        146
+      ],
+      "start_point": [
+        6,
+        8
+      ],
+      "end_point": [
+        6,
+        38
+      ],
+      "id": "bc5e9646f89861a5fe4e06fc"
+    },
+    {
+      "type": "attribute",
+      "field_name": "left",
+      "text": null,
+      "src_bytes_range": [
+        116,
+        132
+      ],
+      "start_point": [
+        6,
+        8
+      ],
+      "end_point": [
+        6,
+        24
+      ],
+      "id": "2edcfb7eeadb70c8d24673e4"
+    },
+    {
+      "type": "identifier",
+      "field_name": "object",
+      "text": "self",
+      "src_bytes_range": [
+        116,
+        120
+      ],
+      "start_point": [
+        6,
+        8
+      ],
+      "end_point": [
+        6,
+        12
+      ],
+      "id": "99e843d43ca15e55edfa2951"
+    },
+    {
+      "type": ".",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        120,
+        121
+      ],
+      "start_point": [
+        6,
+        12
+      ],
+      "end_point": [
+        6,
+        13
+      ],
+      "id": "e62821066c5f006446ffbeb6"
+    },
+    {
+      "type": "identifier",
+      "field_name": "attribute",
+      "text": "side_length",
+      "src_bytes_range": [
+        121,
+        132
+      ],
+      "start_point": [
+        6,
+        13
+      ],
+      "end_point": [
+        6,
+        24
+      ],
+      "id": "aac8868b62d5b0b9da0f4ad2"
+    },
+    {
+      "type": "=",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        133,
+        134
+      ],
+      "start_point": [
+        6,
+        25
+      ],
+      "end_point": [
+        6,
+        26
+      ],
+      "id": "254b9e9ed0b531324f3ee0e7"
+    },
+    {
+      "type": "identifier",
+      "field_name": "right",
+      "text": "side_length",
+      "src_bytes_range": [
+        135,
+        146
+      ],
+      "start_point": [
+        6,
+        27
+      ],
+      "end_point": [
+        6,
+        38
+      ],
+      "id": "ac726cda5393a836dbf1a0db"
+    },
+    {
+      "type": "function_definition",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        154,
+        354
+      ],
+      "start_point": [
+        8,
+        4
+      ],
+      "end_point": [
+        14,
+        40
+      ],
+      "id": "1db72e0805fa7b7a8620c663"
+    },
+    {
+      "type": "dummy",
+      "field_name": "ENTRY",
+      "text": null,
+      "src_bytes_range": [
+        154,
+        354
+      ],
+      "start_point": [
+        8,
+        4
+      ],
+      "end_point": [
+        14,
+        40
+      ],
+      "id": "aa608bcbc1fd8a4ab06e93e9"
+    },
+    {
+      "type": "dummy",
+      "field_name": "RETURN",
+      "text": null,
+      "src_bytes_range": [
+        154,
+        354
+      ],
+      "start_point": [
+        8,
+        4
+      ],
+      "end_point": [
+        14,
+        40
+      ],
+      "id": "3423200920714671c376eb76"
+    },
+    {
+      "type": "def",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        154,
+        157
+      ],
+      "start_point": [
+        8,
+        4
+      ],
+      "end_point": [
+        8,
+        7
+      ],
+      "id": "aaac964820c0117c133a2f6c"
+    },
+    {
+      "type": "identifier",
+      "field_name": "name",
+      "text": "calculate_area",
+      "src_bytes_range": [
+        158,
+        172
+      ],
+      "start_point": [
+        8,
+        8
+      ],
+      "end_point": [
+        8,
+        22
+      ],
+      "id": "c17233a490bb528cfbe4d7d2"
+    },
+    {
+      "type": "parameters",
+      "field_name": "parameters",
+      "text": null,
+      "src_bytes_range": [
+        172,
+        178
+      ],
+      "start_point": [
+        8,
+        22
+      ],
+      "end_point": [
+        8,
+        28
+      ],
+      "id": "2bdcc9be5a237c3a6730e571"
+    },
+    {
+      "type": "(",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        172,
+        173
+      ],
+      "start_point": [
+        8,
+        22
+      ],
+      "end_point": [
+        8,
+        23
+      ],
+      "id": "9cfd7272570535e089f8a997"
+    },
+    {
+      "type": "identifier",
+      "field_name": null,
+      "text": "self",
+      "src_bytes_range": [
+        173,
+        177
+      ],
+      "start_point": [
+        8,
+        23
+      ],
+      "end_point": [
+        8,
+        27
+      ],
+      "id": "1c6d79cfa444f8f1e53c8c6a"
+    },
+    {
+      "type": ")",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        177,
+        178
+      ],
+      "start_point": [
+        8,
+        27
+      ],
+      "end_point": [
+        8,
+        28
+      ],
+      "id": "36fb840540fe302958e6ffd1"
+    },
+    {
+      "type": ":",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        178,
+        179
+      ],
+      "start_point": [
+        8,
+        28
+      ],
+      "end_point": [
+        8,
+        29
+      ],
+      "id": "e470569065c5ff0d6a35943b"
+    },
+    {
+      "type": "block",
+      "field_name": "body",
+      "text": null,
+      "src_bytes_range": [
+        189,
+        354
+      ],
+      "start_point": [
+        9,
+        8
+      ],
+      "end_point": [
+        14,
+        40
+      ],
+      "id": "d25e7522cde6fa2a6aed88e5"
+    },
+    {
+      "type": "if_statement",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        189,
+        354
+      ],
+      "start_point": [
+        9,
+        8
+      ],
+      "end_point": [
+        14,
+        40
+      ],
+      "id": "bbd6bf4d07e8ab46a8954d9a"
+    },
+    {
+      "type": "if",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        189,
+        191
+      ],
+      "start_point": [
+        9,
+        8
+      ],
+      "end_point": [
+        9,
+        10
+      ],
+      "id": "06a44806b571ea2269f5e6f6"
+    },
+    {
+      "type": "comparison_operator",
+      "field_name": "condition",
+      "text": null,
+      "src_bytes_range": [
+        192,
+        216
+      ],
+      "start_point": [
+        9,
+        11
+      ],
+      "end_point": [
+        9,
+        35
+      ],
+      "id": "78f63bf3b5696b6f5905ae19"
+    },
+    {
+      "type": "attribute",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        192,
+        208
+      ],
+      "start_point": [
+        9,
+        11
+      ],
+      "end_point": [
+        9,
+        27
+      ],
+      "id": "0a4c54aa434ca0a38a130198"
+    },
+    {
+      "type": "identifier",
+      "field_name": "object",
+      "text": "self",
+      "src_bytes_range": [
+        192,
+        196
+      ],
+      "start_point": [
+        9,
+        11
+      ],
+      "end_point": [
+        9,
+        15
+      ],
+      "id": "d41b85f69d91431d545ee0a9"
+    },
+    {
+      "type": ".",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        196,
+        197
+      ],
+      "start_point": [
+        9,
+        15
+      ],
+      "end_point": [
+        9,
+        16
+      ],
+      "id": "2436e815fc461888d5c4b23a"
+    },
+    {
+      "type": "identifier",
+      "field_name": "attribute",
+      "text": "side_length",
+      "src_bytes_range": [
+        197,
+        208
+      ],
+      "start_point": [
+        9,
+        16
+      ],
+      "end_point": [
+        9,
+        27
+      ],
+      "id": "cd1b5af33094645965ae8d06"
+    },
+    {
+      "type": "==",
+      "field_name": "operators",
+      "text": null,
+      "src_bytes_range": [
+        209,
+        211
+      ],
+      "start_point": [
+        9,
+        28
+      ],
+      "end_point": [
+        9,
+        30
+      ],
+      "id": "531fc2aaa85651c8cf28810b"
+    },
+    {
+      "type": "identifier",
+      "field_name": null,
+      "text": "TEMP",
+      "src_bytes_range": [
+        212,
+        216
+      ],
+      "start_point": [
+        9,
+        31
+      ],
+      "end_point": [
+        9,
+        35
+      ],
+      "id": "e85fa7be84a304c83311f4c5"
+    },
+    {
+      "type": ":",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        216,
+        217
+      ],
+      "start_point": [
+        9,
+        35
+      ],
+      "end_point": [
+        9,
+        36
+      ],
+      "id": "f3e2a3bea05ff2fa9a08c720"
+    },
+    {
+      "type": "block",
+      "field_name": "consequence",
+      "text": null,
+      "src_bytes_range": [
+        231,
+        239
+      ],
+      "start_point": [
+        10,
+        12
+      ],
+      "end_point": [
+        10,
+        20
+      ],
+      "id": "06912692faf031fdcba9d243"
+    },
+    {
+      "type": "return_statement",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        231,
+        239
+      ],
+      "start_point": [
+        10,
+        12
+      ],
+      "end_point": [
+        10,
+        20
+      ],
+      "id": "c07b227f8facb7c101ef9ffe"
+    },
+    {
+      "type": "return",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        231,
+        237
+      ],
+      "start_point": [
+        10,
+        12
+      ],
+      "end_point": [
+        10,
+        18
+      ],
+      "id": "920893ffeb7fee3c2be32497"
+    },
+    {
+      "type": "integer",
+      "field_name": null,
+      "text": "0",
+      "src_bytes_range": [
+        238,
+        239
+      ],
+      "start_point": [
+        10,
+        19
+      ],
+      "end_point": [
+        10,
+        20
+      ],
+      "inferred_type": "integer",
+      "id": "f8e55599bf44172d9b7f26fe"
+    },
+    {
+      "type": "elif_clause",
+      "field_name": "alternative",
+      "text": null,
+      "src_bytes_range": [
+        249,
+        297
+      ],
+      "start_point": [
+        11,
+        8
+      ],
+      "end_point": [
+        12,
+        20
+      ],
+      "id": "9007fe7d3e01ef08d19471e1"
+    },
+    {
+      "type": "elif",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        249,
+        253
+      ],
+      "start_point": [
+        11,
+        8
+      ],
+      "end_point": [
+        11,
+        12
+      ],
+      "id": "74b90511e487ae94206e450c"
+    },
+    {
+      "type": "comparison_operator",
+      "field_name": "condition",
+      "text": null,
+      "src_bytes_range": [
+        254,
+        274
+      ],
+      "start_point": [
+        11,
+        13
+      ],
+      "end_point": [
+        11,
+        33
+      ],
+      "id": "a3c997b864d1f8ddeca9ab7f"
+    },
+    {
+      "type": "attribute",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        254,
+        270
+      ],
+      "start_point": [
+        11,
+        13
+      ],
+      "end_point": [
+        11,
+        29
+      ],
+      "id": "bafb9dd67b6d640d5f90d871"
+    },
+    {
+      "type": "identifier",
+      "field_name": "object",
+      "text": "self",
+      "src_bytes_range": [
+        254,
+        258
+      ],
+      "start_point": [
+        11,
+        13
+      ],
+      "end_point": [
+        11,
+        17
+      ],
+      "id": "34d8581031fa78feede24d91"
+    },
+    {
+      "type": ".",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        258,
+        259
+      ],
+      "start_point": [
+        11,
+        17
+      ],
+      "end_point": [
+        11,
+        18
+      ],
+      "id": "b108ff9d7309abc1cac81438"
+    },
+    {
+      "type": "identifier",
+      "field_name": "attribute",
+      "text": "side_length",
+      "src_bytes_range": [
+        259,
+        270
+      ],
+      "start_point": [
+        11,
+        18
+      ],
+      "end_point": [
+        11,
+        29
+      ],
+      "id": "2cdda2585ba2fd7d99865586"
+    },
+    {
+      "type": "<",
+      "field_name": "operators",
+      "text": null,
+      "src_bytes_range": [
+        271,
+        272
+      ],
+      "start_point": [
+        11,
+        30
+      ],
+      "end_point": [
+        11,
+        31
+      ],
+      "id": "425a9187d84b9c2f17db4b1c"
+    },
+    {
+      "type": "integer",
+      "field_name": null,
+      "text": "0",
+      "src_bytes_range": [
+        273,
+        274
+      ],
+      "start_point": [
+        11,
+        32
+      ],
+      "end_point": [
+        11,
+        33
+      ],
+      "inferred_type": "integer",
+      "id": "0d774641acf50fd03ab5814f"
+    },
+    {
+      "type": ":",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        274,
+        275
+      ],
+      "start_point": [
+        11,
+        33
+      ],
+      "end_point": [
+        11,
+        34
+      ],
+      "id": "845b4cb30cd3505c8f60dace"
+    },
+    {
+      "type": "block",
+      "field_name": "consequence",
+      "text": null,
+      "src_bytes_range": [
+        289,
+        297
+      ],
+      "start_point": [
+        12,
+        12
+      ],
+      "end_point": [
+        12,
+        20
+      ],
+      "id": "1597d316cc78870a5f5cebeb"
+    },
+    {
+      "type": "return_statement",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        289,
+        297
+      ],
+      "start_point": [
+        12,
+        12
+      ],
+      "end_point": [
+        12,
+        20
+      ],
+      "id": "1d690bfc2f6c4d9440056ebc"
+    },
+    {
+      "type": "return",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        289,
+        295
+      ],
+      "start_point": [
+        12,
+        12
+      ],
+      "end_point": [
+        12,
+        18
+      ],
+      "id": "181fdd111a1501ae20015077"
+    },
+    {
+      "type": "integer",
+      "field_name": null,
+      "text": "1",
+      "src_bytes_range": [
+        296,
+        297
+      ],
+      "start_point": [
+        12,
+        19
+      ],
+      "end_point": [
+        12,
+        20
+      ],
+      "inferred_type": "integer",
+      "id": "9241de0c0329c1e3fec28ca1"
+    },
+    {
+      "type": "else_clause",
+      "field_name": "alternative",
+      "text": null,
+      "src_bytes_range": [
+        307,
+        354
+      ],
+      "start_point": [
+        13,
+        8
+      ],
+      "end_point": [
+        14,
+        40
+      ],
+      "id": "e30a1abaac8ea70a407a5617"
+    },
+    {
+      "type": "else",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        307,
+        311
+      ],
+      "start_point": [
+        13,
+        8
+      ],
+      "end_point": [
+        13,
+        12
+      ],
+      "id": "0bb58352eb3ed7806e9cba7d"
+    },
+    {
+      "type": ":",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        311,
+        312
+      ],
+      "start_point": [
+        13,
+        12
+      ],
+      "end_point": [
+        13,
+        13
+      ],
+      "id": "3680ccb4c2a7b7a63fc74c76"
+    },
+    {
+      "type": "block",
+      "field_name": "body",
+      "text": null,
+      "src_bytes_range": [
+        326,
+        354
+      ],
+      "start_point": [
+        14,
+        12
+      ],
+      "end_point": [
+        14,
+        40
+      ],
+      "id": "d9526fc7f41b4093adc4cabc"
+    },
+    {
+      "type": "return_statement",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        326,
+        354
+      ],
+      "start_point": [
+        14,
+        12
+      ],
+      "end_point": [
+        14,
+        40
+      ],
+      "id": "51b9fa86ad55ca5caec1c7f7"
+    },
+    {
+      "type": "return",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        326,
+        332
+      ],
+      "start_point": [
+        14,
+        12
+      ],
+      "end_point": [
+        14,
+        18
+      ],
+      "id": "9e338e98cf8e66b774449092"
+    },
+    {
+      "type": "binary_operator",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        333,
+        354
+      ],
+      "start_point": [
+        14,
+        19
+      ],
+      "end_point": [
+        14,
+        40
+      ],
+      "id": "34f8bdc7f904c5a058cbb12b"
+    },
+    {
+      "type": "attribute",
+      "field_name": "left",
+      "text": null,
+      "src_bytes_range": [
+        333,
+        349
+      ],
+      "start_point": [
+        14,
+        19
+      ],
+      "end_point": [
+        14,
+        35
+      ],
+      "id": "c626daec2b249e039e937098"
+    },
+    {
+      "type": "identifier",
+      "field_name": "object",
+      "text": "self",
+      "src_bytes_range": [
+        333,
+        337
+      ],
+      "start_point": [
+        14,
+        19
+      ],
+      "end_point": [
+        14,
+        23
+      ],
+      "id": "b257f964aaec7811af427395"
+    },
+    {
+      "type": ".",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        337,
+        338
+      ],
+      "start_point": [
+        14,
+        23
+      ],
+      "end_point": [
+        14,
+        24
+      ],
+      "id": "47bba1a5d9c1ba8129f71172"
+    },
+    {
+      "type": "identifier",
+      "field_name": "attribute",
+      "text": "side_length",
+      "src_bytes_range": [
+        338,
+        349
+      ],
+      "start_point": [
+        14,
+        24
+      ],
+      "end_point": [
+        14,
+        35
+      ],
+      "id": "90686159e788f0915e8b4cb4"
+    },
+    {
+      "type": "**",
+      "field_name": "operator",
+      "text": null,
+      "src_bytes_range": [
+        350,
+        352
+      ],
+      "start_point": [
+        14,
+        36
+      ],
+      "end_point": [
+        14,
+        38
+      ],
+      "id": "55ff8ad6adc833627381ba88"
+    },
+    {
+      "type": "integer",
+      "field_name": "right",
+      "text": "2",
+      "src_bytes_range": [
+        353,
+        354
+      ],
+      "start_point": [
+        14,
+        39
+      ],
+      "end_point": [
+        14,
+        40
+      ],
+      "inferred_type": "integer",
+      "id": "1b02651a273dae87eb3016bc"
+    },
+    {
+      "type": "class_definition",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        358,
+        510
+      ],
+      "start_point": [
+        16,
+        0
+      ],
+      "end_point": [
+        21,
+        36
+      ],
+      "id": "67c66844e02b4e5f30a6e024"
+    },
+    {
+      "type": "dummy",
+      "field_name": "START",
+      "text": null,
+      "src_bytes_range": [
+        358,
+        510
+      ],
+      "start_point": [
+        16,
+        0
+      ],
+      "end_point": [
+        21,
+        36
+      ],
+      "id": "1fc749a1ec67800cf897f1cd"
+    },
+    {
+      "type": "dummy",
+      "field_name": "EXIT",
+      "text": null,
+      "src_bytes_range": [
+        358,
+        510
+      ],
+      "start_point": [
+        16,
+        0
+      ],
+      "end_point": [
+        21,
+        36
+      ],
+      "id": "11ce0525ba3740a716efde7c"
+    },
+    {
+      "type": "class",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        358,
+        363
+      ],
+      "start_point": [
+        16,
+        0
+      ],
+      "end_point": [
+        16,
+        5
+      ],
+      "id": "8e6a4281e61071cd2292cc94"
+    },
+    {
+      "type": "identifier",
+      "field_name": "name",
+      "text": "Circle",
+      "src_bytes_range": [
+        364,
+        370
+      ],
+      "start_point": [
+        16,
+        6
+      ],
+      "end_point": [
+        16,
+        12
+      ],
+      "id": "41985e10e9538df65507a137"
+    },
+    {
+      "type": ":",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        370,
+        371
+      ],
+      "start_point": [
+        16,
+        12
+      ],
+      "end_point": [
+        16,
+        13
+      ],
+      "id": "292e75e304a24e30158b600d"
+    },
+    {
+      "type": "block",
+      "field_name": "body",
+      "text": null,
+      "src_bytes_range": [
+        377,
+        510
+      ],
+      "start_point": [
+        17,
+        4
+      ],
+      "end_point": [
+        21,
+        36
+      ],
+      "id": "f179af722e0ba485e709e923"
+    },
+    {
+      "type": "function_definition",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        377,
+        439
+      ],
+      "start_point": [
+        17,
+        4
+      ],
+      "end_point": [
+        18,
+        28
+      ],
+      "id": "1fe2fdda1b47cbe85131f514"
+    },
+    {
+      "type": "dummy",
+      "field_name": "ENTRY",
+      "text": null,
+      "src_bytes_range": [
+        377,
+        439
+      ],
+      "start_point": [
+        17,
+        4
+      ],
+      "end_point": [
+        18,
+        28
+      ],
+      "id": "dd877daeb67e61c5beea8912"
+    },
+    {
+      "type": "dummy",
+      "field_name": "RETURN",
+      "text": null,
+      "src_bytes_range": [
+        377,
+        439
+      ],
+      "start_point": [
+        17,
+        4
+      ],
+      "end_point": [
+        18,
+        28
+      ],
+      "id": "2010f2d5dd046a37b6a56e04"
+    },
+    {
+      "type": "def",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        377,
+        380
+      ],
+      "start_point": [
+        17,
+        4
+      ],
+      "end_point": [
+        17,
+        7
+      ],
+      "id": "90f77de3374e807a819ad9a1"
+    },
+    {
+      "type": "identifier",
+      "field_name": "name",
+      "text": "__init__",
+      "src_bytes_range": [
+        381,
+        389
+      ],
+      "start_point": [
+        17,
+        8
+      ],
+      "end_point": [
+        17,
+        16
+      ],
+      "id": "f8b9dc206154a40f54b4063a"
+    },
+    {
+      "type": "parameters",
+      "field_name": "parameters",
+      "text": null,
+      "src_bytes_range": [
+        389,
+        408
+      ],
+      "start_point": [
+        17,
+        16
+      ],
+      "end_point": [
+        17,
+        35
+      ],
+      "id": "41aee2ea6f46026687959a4d"
+    },
+    {
+      "type": "(",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        389,
+        390
+      ],
+      "start_point": [
+        17,
+        16
+      ],
+      "end_point": [
+        17,
+        17
+      ],
+      "id": "e69b974d76cde3682125dd35"
+    },
+    {
+      "type": "identifier",
+      "field_name": null,
+      "text": "self",
+      "src_bytes_range": [
+        390,
+        394
+      ],
+      "start_point": [
+        17,
+        17
+      ],
+      "end_point": [
+        17,
+        21
+      ],
+      "id": "7aa253116a67b2d45197244a"
+    },
+    {
+      "type": ",",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        394,
+        395
+      ],
+      "start_point": [
+        17,
+        21
+      ],
+      "end_point": [
+        17,
+        22
+      ],
+      "id": "42b948c8a48e3e7480ee35b4"
+    },
+    {
+      "type": "default_parameter",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        396,
+        407
+      ],
+      "start_point": [
+        17,
+        23
+      ],
+      "end_point": [
+        17,
+        34
+      ],
+      "id": "d2a89c1402736d00290e5e73"
+    },
+    {
+      "type": "identifier",
+      "field_name": "name",
+      "text": "radius",
+      "src_bytes_range": [
+        396,
+        402
+      ],
+      "start_point": [
+        17,
+        23
+      ],
+      "end_point": [
+        17,
+        29
+      ],
+      "id": "105dc2ab1ad9dbc6fcc4e6ea"
+    },
+    {
+      "type": "=",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        403,
+        404
+      ],
+      "start_point": [
+        17,
+        30
+      ],
+      "end_point": [
+        17,
+        31
+      ],
+      "id": "a28a39de339c8f72bd3a7f43"
+    },
+    {
+      "type": "integer",
+      "field_name": "value",
+      "text": "10",
+      "src_bytes_range": [
+        405,
+        407
+      ],
+      "start_point": [
+        17,
+        32
+      ],
+      "end_point": [
+        17,
+        34
+      ],
+      "inferred_type": "integer",
+      "id": "e470f9c73ffebce167743ec3"
+    },
+    {
+      "type": ")",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        407,
+        408
+      ],
+      "start_point": [
+        17,
+        34
+      ],
+      "end_point": [
+        17,
+        35
+      ],
+      "id": "4ae858429d9096868b4b0012"
+    },
+    {
+      "type": ":",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        408,
+        409
+      ],
+      "start_point": [
+        17,
+        35
+      ],
+      "end_point": [
+        17,
+        36
+      ],
+      "id": "62978b7c4048d1a94200ba9d"
+    },
+    {
+      "type": "block",
+      "field_name": "body",
+      "text": null,
+      "src_bytes_range": [
+        419,
+        439
+      ],
+      "start_point": [
+        18,
+        8
+      ],
+      "end_point": [
+        18,
+        28
+      ],
+      "id": "53e203b2e02da2d1f26019c7"
+    },
+    {
+      "type": "expression_statement",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        419,
+        439
+      ],
+      "start_point": [
+        18,
+        8
+      ],
+      "end_point": [
+        18,
+        28
+      ],
+      "id": "465d06d48f853bcb409f7078"
+    },
+    {
+      "type": "assignment",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        419,
+        439
+      ],
+      "start_point": [
+        18,
+        8
+      ],
+      "end_point": [
+        18,
+        28
+      ],
+      "id": "e38508b8fe8921611ce5fa96"
+    },
+    {
+      "type": "attribute",
+      "field_name": "left",
+      "text": null,
+      "src_bytes_range": [
+        419,
+        430
+      ],
+      "start_point": [
+        18,
+        8
+      ],
+      "end_point": [
+        18,
+        19
+      ],
+      "id": "d12dc5422f5823e5e1dd56b1"
+    },
+    {
+      "type": "identifier",
+      "field_name": "object",
+      "text": "self",
+      "src_bytes_range": [
+        419,
+        423
+      ],
+      "start_point": [
+        18,
+        8
+      ],
+      "end_point": [
+        18,
+        12
+      ],
+      "id": "ee757100d8ca69abe8b8a996"
+    },
+    {
+      "type": ".",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        423,
+        424
+      ],
+      "start_point": [
+        18,
+        12
+      ],
+      "end_point": [
+        18,
+        13
+      ],
+      "id": "fe5541767893beeceed9aee4"
+    },
+    {
+      "type": "identifier",
+      "field_name": "attribute",
+      "text": "radius",
+      "src_bytes_range": [
+        424,
+        430
+      ],
+      "start_point": [
+        18,
+        13
+      ],
+      "end_point": [
+        18,
+        19
+      ],
+      "id": "1464c8cb6c74b02f1dbd745d"
+    },
+    {
+      "type": "=",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        431,
+        432
+      ],
+      "start_point": [
+        18,
+        20
+      ],
+      "end_point": [
+        18,
+        21
+      ],
+      "id": "436bce4d3cc78d825c5f784f"
+    },
+    {
+      "type": "identifier",
+      "field_name": "right",
+      "text": "radius",
+      "src_bytes_range": [
+        433,
+        439
+      ],
+      "start_point": [
+        18,
+        22
+      ],
+      "end_point": [
+        18,
+        28
+      ],
+      "id": "ffea35f53cfe3cfbe2d3c1fb"
+    },
+    {
+      "type": "function_definition",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        447,
+        510
+      ],
+      "start_point": [
+        20,
+        4
+      ],
+      "end_point": [
+        21,
+        36
+      ],
+      "id": "ccb17b1d8b183c778fb69ae8"
+    },
+    {
+      "type": "dummy",
+      "field_name": "ENTRY",
+      "text": null,
+      "src_bytes_range": [
+        447,
+        510
+      ],
+      "start_point": [
+        20,
+        4
+      ],
+      "end_point": [
+        21,
+        36
+      ],
+      "id": "81f8d36f3c60e2101baf51bf"
+    },
+    {
+      "type": "dummy",
+      "field_name": "RETURN",
+      "text": null,
+      "src_bytes_range": [
+        447,
+        510
+      ],
+      "start_point": [
+        20,
+        4
+      ],
+      "end_point": [
+        21,
+        36
+      ],
+      "id": "fc0cb17f047988a56404be89"
+    },
+    {
+      "type": "def",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        447,
+        450
+      ],
+      "start_point": [
+        20,
+        4
+      ],
+      "end_point": [
+        20,
+        7
+      ],
+      "id": "313f163501cd71abf78b2f56"
+    },
+    {
+      "type": "identifier",
+      "field_name": "name",
+      "text": "calculate_area",
+      "src_bytes_range": [
+        451,
+        465
+      ],
+      "start_point": [
+        20,
+        8
+      ],
+      "end_point": [
+        20,
+        22
+      ],
+      "id": "990d475676e7b067c2dc0cb3"
+    },
+    {
+      "type": "parameters",
+      "field_name": "parameters",
+      "text": null,
+      "src_bytes_range": [
+        465,
+        471
+      ],
+      "start_point": [
+        20,
+        22
+      ],
+      "end_point": [
+        20,
+        28
+      ],
+      "id": "6a055c1e8992f04471bbdfc5"
+    },
+    {
+      "type": "(",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        465,
+        466
+      ],
+      "start_point": [
+        20,
+        22
+      ],
+      "end_point": [
+        20,
+        23
+      ],
+      "id": "5fb5b48de7d26957dca12a2b"
+    },
+    {
+      "type": "identifier",
+      "field_name": null,
+      "text": "self",
+      "src_bytes_range": [
+        466,
+        470
+      ],
+      "start_point": [
+        20,
+        23
+      ],
+      "end_point": [
+        20,
+        27
+      ],
+      "id": "b05a52f99a60276def462bca"
+    },
+    {
+      "type": ")",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        470,
+        471
+      ],
+      "start_point": [
+        20,
+        27
+      ],
+      "end_point": [
+        20,
+        28
+      ],
+      "id": "f08ceaada86a0d0451c435ee"
+    },
+    {
+      "type": ":",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        471,
+        472
+      ],
+      "start_point": [
+        20,
+        28
+      ],
+      "end_point": [
+        20,
+        29
+      ],
+      "id": "6ab7e029d834a8b8febdb871"
+    },
+    {
+      "type": "block",
+      "field_name": "body",
+      "text": null,
+      "src_bytes_range": [
+        482,
+        510
+      ],
+      "start_point": [
+        21,
+        8
+      ],
+      "end_point": [
+        21,
+        36
+      ],
+      "id": "08307ac34f2bd7e53de7bf84"
+    },
+    {
+      "type": "return_statement",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        482,
+        510
+      ],
+      "start_point": [
+        21,
+        8
+      ],
+      "end_point": [
+        21,
+        36
+      ],
+      "id": "ab3c47e7d11547e9e8a272c4"
+    },
+    {
+      "type": "return",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        482,
+        488
+      ],
+      "start_point": [
+        21,
+        8
+      ],
+      "end_point": [
+        21,
+        14
+      ],
+      "id": "475d5e7ade409c962d26a477"
+    },
+    {
+      "type": "binary_operator",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        489,
+        510
+      ],
+      "start_point": [
+        21,
+        15
+      ],
+      "end_point": [
+        21,
+        36
+      ],
+      "id": "ea40ba1a801e445d23f1cc98"
+    },
+    {
+      "type": "identifier",
+      "field_name": "left",
+      "text": "PI",
+      "src_bytes_range": [
+        489,
+        491
+      ],
+      "start_point": [
+        21,
+        15
+      ],
+      "end_point": [
+        21,
+        17
+      ],
+      "id": "ff68ebe2a64ecf4cc02ec053"
+    },
+    {
+      "type": "*",
+      "field_name": "operator",
+      "text": null,
+      "src_bytes_range": [
+        492,
+        493
+      ],
+      "start_point": [
+        21,
+        18
+      ],
+      "end_point": [
+        21,
+        19
+      ],
+      "id": "e80918890460f38e5edabc50"
+    },
+    {
+      "type": "binary_operator",
+      "field_name": "right",
+      "text": null,
+      "src_bytes_range": [
+        494,
+        510
+      ],
+      "start_point": [
+        21,
+        20
+      ],
+      "end_point": [
+        21,
+        36
+      ],
+      "id": "73310d797e7871ea11ec3604"
+    },
+    {
+      "type": "attribute",
+      "field_name": "left",
+      "text": null,
+      "src_bytes_range": [
+        494,
+        505
+      ],
+      "start_point": [
+        21,
+        20
+      ],
+      "end_point": [
+        21,
+        31
+      ],
+      "id": "14852b594eb78cf36e7d79c0"
+    },
+    {
+      "type": "identifier",
+      "field_name": "object",
+      "text": "self",
+      "src_bytes_range": [
+        494,
+        498
+      ],
+      "start_point": [
+        21,
+        20
+      ],
+      "end_point": [
+        21,
+        24
+      ],
+      "id": "d8af3856cd0859576f2fc1ce"
+    },
+    {
+      "type": ".",
+      "field_name": null,
+      "text": null,
+      "src_bytes_range": [
+        498,
+        499
+      ],
+      "start_point": [
+        21,
+        24
+      ],
+      "end_point": [
+        21,
+        25
+      ],
+      "id": "a8c677d25fd4182b4f96dc23"
+    },
+    {
+      "type": "identifier",
+      "field_name": "attribute",
+      "text": "radius",
+      "src_bytes_range": [
+        499,
+        505
+      ],
+      "start_point": [
+        21,
+        25
+      ],
+      "end_point": [
+        21,
+        31
+      ],
+      "id": "def7504c5efcdbf781b296f9"
+    },
+    {
+      "type": "**",
+      "field_name": "operator",
+      "text": null,
+      "src_bytes_range": [
+        506,
+        508
+      ],
+      "start_point": [
+        21,
+        32
+      ],
+      "end_point": [
+        21,
+        34
+      ],
+      "id": "90f17ded14e820db4c2efcce"
+    },
+    {
+      "type": "integer",
+      "field_name": "right",
+      "text": "2",
+      "src_bytes_range": [
+        509,
+        510
+      ],
+      "start_point": [
+        21,
+        35
+      ],
+      "end_point": [
+        21,
+        36
+      ],
+      "inferred_type": "integer",
+      "id": "c67a6ca9d789b69155be6a99"
+    }
+  ],
+  "links": [
+    {
+      "source": "d95f259dca56fd12aa040243",
+      "target": "4937536900753f573b36bbbe",
+      "key": "AST"
+    },
+    {
+      "source": "d95f259dca56fd12aa040243",
+      "target": "0bcf2b405e413e6457c6622e",
+      "key": "AST"
+    },
+    {
+      "source": "d95f259dca56fd12aa040243",
+      "target": "8581efcdd13243e828f26df4",
+      "key": "AST"
+    },
+    {
+      "source": "d95f259dca56fd12aa040243",
+      "target": "3675d3a002a81cb205b632ef",
+      "key": "AST"
+    },
+    {
+      "source": "d95f259dca56fd12aa040243",
+      "target": "35fe256b953b80573974e17e",
+      "key": "AST"
+    },
+    {
+      "source": "4937536900753f573b36bbbe",
+      "target": "8581efcdd13243e828f26df4",
+      "key": "CF"
+    },
+    {
+      "source": "8581efcdd13243e828f26df4",
+      "target": "0823ed56e0a0187a4c80aa9b",
+      "key": "AST"
+    },
+    {
+      "source": "8581efcdd13243e828f26df4",
+      "target": "dbf4e8374b11a60014919edc",
+      "key": "AST"
+    },
+    {
+      "source": "8581efcdd13243e828f26df4",
+      "target": "3675d3a002a81cb205b632ef",
+      "key": "CF"
+    },
+    {
+      "source": "dbf4e8374b11a60014919edc",
+      "target": "a90dee83ceed9d2f78b741eb",
+      "key": "AST"
+    },
+    {
+      "source": "3675d3a002a81cb205b632ef",
+      "target": "5aa8af15f0ddfa6a727501ce",
+      "key": "AST"
+    },
+    {
+      "source": "3675d3a002a81cb205b632ef",
+      "target": "35fe256b953b80573974e17e",
+      "key": "CF"
+    },
+    {
+      "source": "5aa8af15f0ddfa6a727501ce",
+      "target": "de59fb0056390002b3934013",
+      "key": "AST"
+    },
+    {
+      "source": "5aa8af15f0ddfa6a727501ce",
+      "target": "70f3c8cc269483ca480b2b46",
+      "key": "AST"
+    },
+    {
+      "source": "5aa8af15f0ddfa6a727501ce",
+      "target": "bd6e4aa31707ab18ea5cf3fd",
+      "key": "AST"
+    },
+    {
+      "source": "de59fb0056390002b3934013",
+      "target": "d468fa6a0a74de7bb22dbeae",
+      "key": "DF"
+    },
+    {
+      "source": "35fe256b953b80573974e17e",
+      "target": "d1610e39d5dc48bcf5187297",
+      "key": "AST"
+    },
+    {
+      "source": "35fe256b953b80573974e17e",
+      "target": "0bcf2b405e413e6457c6622e",
+      "key": "CF"
+    },
+    {
+      "source": "d1610e39d5dc48bcf5187297",
+      "target": "bba07bea89afb4dc7745bbe9",
+      "key": "AST"
+    },
+    {
+      "source": "d1610e39d5dc48bcf5187297",
+      "target": "05b6e338e63969e3f91f1e3c",
+      "key": "AST"
+    },
+    {
+      "source": "d1610e39d5dc48bcf5187297",
+      "target": "d468fa6a0a74de7bb22dbeae",
+      "key": "AST"
+    },
+    {
+      "source": "bd43e8cf9424f13032f657e1",
+      "target": "f0e0a49cb78d277b38fa02a5",
+      "key": "AST"
+    },
+    {
+      "source": "bd43e8cf9424f13032f657e1",
+      "target": "55459ec7cb77a8a7908387ee",
+      "key": "AST"
+    },
+    {
+      "source": "bd43e8cf9424f13032f657e1",
+      "target": "0bb1e2e9ee49b0c838365ec8",
+      "key": "AST"
+    },
+    {
+      "source": "bd43e8cf9424f13032f657e1",
+      "target": "18939da7879c897a4db59256",
+      "key": "AST"
+    },
+    {
+      "source": "bd43e8cf9424f13032f657e1",
+      "target": "5e16f9c780de7c80837d80e0",
+      "key": "AST"
+    },
+    {
+      "source": "bd43e8cf9424f13032f657e1",
+      "target": "fa0dd615a4faa630a02de9ce",
+      "key": "AST"
+    },
+    {
+      "source": "f0e0a49cb78d277b38fa02a5",
+      "target": "0bb1e2e9ee49b0c838365ec8",
+      "key": "CF"
+    },
+    {
+      "source": "0bb1e2e9ee49b0c838365ec8",
+      "target": "a7bf11c7c5ce588fb333050e",
+      "key": "AST"
+    },
+    {
+      "source": "0bb1e2e9ee49b0c838365ec8",
+      "target": "de3279423b2b5e0fe7028bde",
+      "key": "AST"
+    },
+    {
+      "source": "0bb1e2e9ee49b0c838365ec8",
+      "target": "5a14416bdac32c2316fb9789",
+      "key": "AST"
+    },
+    {
+      "source": "0bb1e2e9ee49b0c838365ec8",
+      "target": "ec026192c28fec63144a3750",
+      "key": "AST"
+    },
+    {
+      "source": "0bb1e2e9ee49b0c838365ec8",
+      "target": "b353be3f2982a3b4d397adfe",
+      "key": "AST"
+    },
+    {
+      "source": "0bb1e2e9ee49b0c838365ec8",
+      "target": "8f2fa8bb87a5e3463ef5c33b",
+      "key": "AST"
+    },
+    {
+      "source": "0bb1e2e9ee49b0c838365ec8",
+      "target": "18939da7879c897a4db59256",
+      "key": "CF"
+    },
+    {
+      "source": "de3279423b2b5e0fe7028bde",
+      "target": "75f7cedee92f3f6158fcc3a6",
+      "key": "AST"
+    },
+    {
+      "source": "ec026192c28fec63144a3750",
+      "target": "13a8b594815f7ad30dfd04bc",
+      "key": "AST"
+    },
+    {
+      "source": "8f2fa8bb87a5e3463ef5c33b",
+      "target": "39b20b5706a1d8875cf9efc2",
+      "key": "AST"
+    },
+    {
+      "source": "18939da7879c897a4db59256",
+      "target": "54fde77c7a8f4366f82f1b1c",
+      "key": "AST"
+    },
+    {
+      "source": "18939da7879c897a4db59256",
+      "target": "5e16f9c780de7c80837d80e0",
+      "key": "CF"
+    },
+    {
+      "source": "54fde77c7a8f4366f82f1b1c",
+      "target": "b9151940b2553a42068adb68",
+      "key": "AST"
+    },
+    {
+      "source": "54fde77c7a8f4366f82f1b1c",
+      "target": "303d423926b792e4d7ce1437",
+      "key": "AST"
+    },
+    {
+      "source": "54fde77c7a8f4366f82f1b1c",
+      "target": "b1ad321549a6f38998b59e15",
+      "key": "AST"
+    },
+    {
+      "source": "b9151940b2553a42068adb68",
+      "target": "1025085241711a446869d30e",
+      "key": "DF"
+    },
+    {
+      "source": "5e16f9c780de7c80837d80e0",
+      "target": "500db7dd8d7fa0d7b617d3e8",
+      "key": "AST"
+    },
+    {
+      "source": "5e16f9c780de7c80837d80e0",
+      "target": "ca88ab24eb4b00e36cf6d6f2",
+      "key": "CF"
+    },
+    {
+      "source": "500db7dd8d7fa0d7b617d3e8",
+      "target": "08113fee4b968f563a45e31a",
+      "key": "AST"
+    },
+    {
+      "source": "500db7dd8d7fa0d7b617d3e8",
+      "target": "dbee17678261c5e22a679967",
+      "key": "AST"
+    },
+    {
+      "source": "500db7dd8d7fa0d7b617d3e8",
+      "target": "7a2f862bcd02df00d0effbd1",
+      "key": "AST"
+    },
+    {
+      "source": "08113fee4b968f563a45e31a",
+      "target": "85a43c7f1a2bd7b45500c599",
+      "key": "DF"
+    },
+    {
+      "source": "fa0dd615a4faa630a02de9ce",
+      "target": "102b7321cbfbb35b0b331e39",
+      "key": "AST"
+    },
+    {
+      "source": "fa0dd615a4faa630a02de9ce",
+      "target": "ca88ab24eb4b00e36cf6d6f2",
+      "key": "AST"
+    },
+    {
+      "source": "fa0dd615a4faa630a02de9ce",
+      "target": "261c164fbf6d58bcfc925273",
+      "key": "AST"
+    },
+    {
+      "source": "fa0dd615a4faa630a02de9ce",
+      "target": "bdebf721254901b116099040",
+      "key": "AST"
+    },
+    {
+      "source": "ca88ab24eb4b00e36cf6d6f2",
+      "target": "a9a15f46bbd6fc8d45bde0e5",
+      "key": "AST"
+    },
+    {
+      "source": "ca88ab24eb4b00e36cf6d6f2",
+      "target": "3d3970ef7667aeafa54bb06c",
+      "key": "AST"
+    },
+    {
+      "source": "ca88ab24eb4b00e36cf6d6f2",
+      "target": "76ea9918ee5702203c5de62f",
+      "key": "AST"
+    },
+    {
+      "source": "ca88ab24eb4b00e36cf6d6f2",
+      "target": "08b5e0bd60ef59de112f8258",
+      "key": "CF"
+    },
+    {
+      "source": "76ea9918ee5702203c5de62f",
+      "target": "5a5b2672a2609b81e2ac5d56",
+      "key": "AST"
+    },
+    {
+      "source": "76ea9918ee5702203c5de62f",
+      "target": "046b8f6d960c28a9c54b86cc",
+      "key": "AST"
+    },
+    {
+      "source": "76ea9918ee5702203c5de62f",
+      "target": "38e235505a619510af8acc29",
+      "key": "AST"
+    },
+    {
+      "source": "bdebf721254901b116099040",
+      "target": "08b5e0bd60ef59de112f8258",
+      "key": "AST"
+    },
+    {
+      "source": "bdebf721254901b116099040",
+      "target": "93b333b87633585d389d6165",
+      "key": "AST"
+    },
+    {
+      "source": "bdebf721254901b116099040",
+      "target": "fd4e9b417ea2043655ab7292",
+      "key": "AST"
+    },
+    {
+      "source": "bdebf721254901b116099040",
+      "target": "2bf17aa59b18ebb933147316",
+      "key": "AST"
+    },
+    {
+      "source": "08b5e0bd60ef59de112f8258",
+      "target": "c799f7292e5eec280773c771",
+      "key": "AST"
+    },
+    {
+      "source": "08b5e0bd60ef59de112f8258",
+      "target": "93b333b87633585d389d6165",
+      "key": "CF"
+    },
+    {
+      "source": "c799f7292e5eec280773c771",
+      "target": "eb8381838223846fafe49cd7",
+      "key": "AST"
+    },
+    {
+      "source": "c799f7292e5eec280773c771",
+      "target": "f6f7345c3a8bda5200293c7d",
+      "key": "AST"
+    },
+    {
+      "source": "c799f7292e5eec280773c771",
+      "target": "50ed030ae224ca28a8cd0898",
+      "key": "AST"
+    },
+    {
+      "source": "eb8381838223846fafe49cd7",
+      "target": "ecfbcf677a9bcfcb47efe075",
+      "key": "DF"
+    },
+    {
+      "source": "50ed030ae224ca28a8cd0898",
+      "target": "0a08535a253ac82de86487d6",
+      "key": "AST"
+    },
+    {
+      "source": "50ed030ae224ca28a8cd0898",
+      "target": "2733e222ef0ec6435c593a0f",
+      "key": "AST"
+    },
+    {
+      "source": "2733e222ef0ec6435c593a0f",
+      "target": "3fcb89fe7eca25c601fdfbee",
+      "key": "AST"
+    },
+    {
+      "source": "2733e222ef0ec6435c593a0f",
+      "target": "1025085241711a446869d30e",
+      "key": "AST"
+    },
+    {
+      "source": "2733e222ef0ec6435c593a0f",
+      "target": "2e532e5f225afda5682e025c",
+      "key": "AST"
+    },
+    {
+      "source": "93b333b87633585d389d6165",
+      "target": "1bcbf0a30cf988f7ab6ddbec",
+      "key": "AST"
+    },
+    {
+      "source": "93b333b87633585d389d6165",
+      "target": "fd4e9b417ea2043655ab7292",
+      "key": "CF"
+    },
+    {
+      "source": "1bcbf0a30cf988f7ab6ddbec",
+      "target": "81b304d34f8999c14e1a0aa9",
+      "key": "AST"
+    },
+    {
+      "source": "1bcbf0a30cf988f7ab6ddbec",
+      "target": "66ab4354d106d404c1335334",
+      "key": "AST"
+    },
+    {
+      "source": "1bcbf0a30cf988f7ab6ddbec",
+      "target": "e70a5f4a13ed29cdfd3a99d1",
+      "key": "AST"
+    },
+    {
+      "source": "81b304d34f8999c14e1a0aa9",
+      "target": "8993d31c4b0682db8df93755",
+      "key": "DF"
+    },
+    {
+      "source": "e70a5f4a13ed29cdfd3a99d1",
+      "target": "27bbe5f52ed6012b80552632",
+      "key": "AST"
+    },
+    {
+      "source": "e70a5f4a13ed29cdfd3a99d1",
+      "target": "b0bfa493c2e3419988a42210",
+      "key": "AST"
+    },
+    {
+      "source": "b0bfa493c2e3419988a42210",
+      "target": "ca4f33dec20df50c9f202c79",
+      "key": "AST"
+    },
+    {
+      "source": "b0bfa493c2e3419988a42210",
+      "target": "85a43c7f1a2bd7b45500c599",
+      "key": "AST"
+    },
+    {
+      "source": "b0bfa493c2e3419988a42210",
+      "target": "23ef58dfa43b3dd6c8fdeb3f",
+      "key": "AST"
+    },
+    {
+      "source": "fd4e9b417ea2043655ab7292",
+      "target": "89bbedfb644520eecaa7b27e",
+      "key": "AST"
+    },
+    {
+      "source": "fd4e9b417ea2043655ab7292",
+      "target": "2bf17aa59b18ebb933147316",
+      "key": "CF"
+    },
+    {
+      "source": "89bbedfb644520eecaa7b27e",
+      "target": "cde81688738759969411a557",
+      "key": "AST"
+    },
+    {
+      "source": "89bbedfb644520eecaa7b27e",
+      "target": "f993c5a73483faebfd9e11fe",
+      "key": "AST"
+    },
+    {
+      "source": "f993c5a73483faebfd9e11fe",
+      "target": "43f6d7224dc274966ada5112",
+      "key": "AST"
+    },
+    {
+      "source": "f993c5a73483faebfd9e11fe",
+      "target": "369b39c9c06f724ed2e2802e",
+      "key": "AST"
+    },
+    {
+      "source": "f993c5a73483faebfd9e11fe",
+      "target": "8c68c3e5817b16666dfab3fc",
+      "key": "AST"
+    },
+    {
+      "source": "369b39c9c06f724ed2e2802e",
+      "target": "430d2444604148db204cb15c",
+      "key": "AST"
+    },
+    {
+      "source": "369b39c9c06f724ed2e2802e",
+      "target": "118d791cda1ad4b1366f5a1d",
+      "key": "AST"
+    },
+    {
+      "source": "369b39c9c06f724ed2e2802e",
+      "target": "9e0ae00c9d548cadaa99c98d",
+      "key": "AST"
+    },
+    {
+      "source": "369b39c9c06f724ed2e2802e",
+      "target": "236eb009578fa3a4518842d2",
+      "key": "AST"
+    },
+    {
+      "source": "9e0ae00c9d548cadaa99c98d",
+      "target": "8189fafbd180e09004d81580",
+      "key": "AST"
+    },
+    {
+      "source": "9e0ae00c9d548cadaa99c98d",
+      "target": "03f113f57fb75d4662e65dd9",
+      "key": "AST"
+    },
+    {
+      "source": "9e0ae00c9d548cadaa99c98d",
+      "target": "832f024270092381a716059b",
+      "key": "AST"
+    },
+    {
+      "source": "03f113f57fb75d4662e65dd9",
+      "target": "71ba9b293ff2d40288dcd1ea",
+      "key": "AST"
+    },
+    {
+      "source": "03f113f57fb75d4662e65dd9",
+      "target": "c75421188dc8e6386058f787",
+      "key": "AST"
+    },
+    {
+      "source": "71ba9b293ff2d40288dcd1ea",
+      "target": "ecfbcf677a9bcfcb47efe075",
+      "key": "AST"
+    },
+    {
+      "source": "71ba9b293ff2d40288dcd1ea",
+      "target": "8616bd935449df05f45d4d1a",
+      "key": "AST"
+    },
+    {
+      "source": "71ba9b293ff2d40288dcd1ea",
+      "target": "1785d46a178d56a702019cab",
+      "key": "AST"
+    },
+    {
+      "source": "c75421188dc8e6386058f787",
+      "target": "b172b448723c1d39d2e1871d",
+      "key": "AST"
+    },
+    {
+      "source": "c75421188dc8e6386058f787",
+      "target": "7b827811a0148fa00b27f842",
+      "key": "AST"
+    },
+    {
+      "source": "2bf17aa59b18ebb933147316",
+      "target": "b1e2f572ba7c8fdf34e63892",
+      "key": "AST"
+    },
+    {
+      "source": "2bf17aa59b18ebb933147316",
+      "target": "55459ec7cb77a8a7908387ee",
+      "key": "CF"
+    },
+    {
+      "source": "b1e2f572ba7c8fdf34e63892",
+      "target": "61bb273bc550f82edbd60ab7",
+      "key": "AST"
+    },
+    {
+      "source": "b1e2f572ba7c8fdf34e63892",
+      "target": "dd06c41d777bc8b1150c8bb0",
+      "key": "AST"
+    },
+    {
+      "source": "dd06c41d777bc8b1150c8bb0",
+      "target": "8f40067675c34bea60992081",
+      "key": "AST"
+    },
+    {
+      "source": "dd06c41d777bc8b1150c8bb0",
+      "target": "df2f6268b44c60dc35c5e169",
+      "key": "AST"
+    },
+    {
+      "source": "dd06c41d777bc8b1150c8bb0",
+      "target": "294c8720497c1520a482740a",
+      "key": "AST"
+    },
+    {
+      "source": "df2f6268b44c60dc35c5e169",
+      "target": "39bae8f9e2d98d661fd0a807",
+      "key": "AST"
+    },
+    {
+      "source": "df2f6268b44c60dc35c5e169",
+      "target": "2b7a4e5da89306fa82b6bba1",
+      "key": "AST"
+    },
+    {
+      "source": "df2f6268b44c60dc35c5e169",
+      "target": "77b44a764b97faeb20dd5d2c",
+      "key": "AST"
+    },
+    {
+      "source": "df2f6268b44c60dc35c5e169",
+      "target": "6b9c617997fef5223c01e690",
+      "key": "AST"
+    },
+    {
+      "source": "77b44a764b97faeb20dd5d2c",
+      "target": "d591ecab094b1aeef93442e9",
+      "key": "AST"
+    },
+    {
+      "source": "77b44a764b97faeb20dd5d2c",
+      "target": "65b90a33e420c48f427a7cf8",
+      "key": "AST"
+    },
+    {
+      "source": "77b44a764b97faeb20dd5d2c",
+      "target": "c06f86d804ec7572fab6a42d",
+      "key": "AST"
+    },
+    {
+      "source": "65b90a33e420c48f427a7cf8",
+      "target": "08dffce9a9ab474059d13b51",
+      "key": "AST"
+    },
+    {
+      "source": "65b90a33e420c48f427a7cf8",
+      "target": "593fa8c4653ecd4aa6564c7b",
+      "key": "AST"
+    },
+    {
+      "source": "08dffce9a9ab474059d13b51",
+      "target": "8993d31c4b0682db8df93755",
+      "key": "AST"
+    },
+    {
+      "source": "08dffce9a9ab474059d13b51",
+      "target": "d0cdbf726340868efe9a1863",
+      "key": "AST"
+    },
+    {
+      "source": "08dffce9a9ab474059d13b51",
+      "target": "93e69960e27c3c6d0206a1ea",
+      "key": "AST"
+    },
+    {
+      "source": "593fa8c4653ecd4aa6564c7b",
+      "target": "5f86a392c58666b2abba417b",
+      "key": "AST"
+    },
+    {
+      "source": "593fa8c4653ecd4aa6564c7b",
+      "target": "97b7e7453011190f25205fe6",
+      "key": "AST"
+    },
+    {
+      "source": "0909a202e98233b33858a4cf",
+      "target": "be64162f0757fcd76b4e02ce",
+      "key": "AST"
+    },
+    {
+      "source": "0909a202e98233b33858a4cf",
+      "target": "0bb424548bb9adc72f5cf788",
+      "key": "AST"
+    },
+    {
+      "source": "0909a202e98233b33858a4cf",
+      "target": "3cf2d441d442ea0d284d7c2d",
+      "key": "AST"
+    },
+    {
+      "source": "0909a202e98233b33858a4cf",
+      "target": "4cab14e3d20e30fb9a3dd4c5",
+      "key": "AST"
+    },
+    {
+      "source": "0909a202e98233b33858a4cf",
+      "target": "55bf48da5eef594af1085d9a",
+      "key": "AST"
+    },
+    {
+      "source": "0909a202e98233b33858a4cf",
+      "target": "67c66844e02b4e5f30a6e024",
+      "key": "AST"
+    },
+    {
+      "source": "be64162f0757fcd76b4e02ce",
+      "target": "3cf2d441d442ea0d284d7c2d",
+      "key": "CF"
+    },
+    {
+      "source": "3cf2d441d442ea0d284d7c2d",
+      "target": "d556c7d489251e13d4dceab1",
+      "key": "AST"
+    },
+    {
+      "source": "3cf2d441d442ea0d284d7c2d",
+      "target": "cf52cf996fecbb0d9aea0be9",
+      "key": "AST"
+    },
+    {
+      "source": "3cf2d441d442ea0d284d7c2d",
+      "target": "44f8fe6fbb30b7857f910f6a",
+      "key": "AST"
+    },
+    {
+      "source": "3cf2d441d442ea0d284d7c2d",
+      "target": "640bbf14a1de53753e065fa6",
+      "key": "AST"
+    },
+    {
+      "source": "3cf2d441d442ea0d284d7c2d",
+      "target": "4cab14e3d20e30fb9a3dd4c5",
+      "key": "CF"
+    },
+    {
+      "source": "cf52cf996fecbb0d9aea0be9",
+      "target": "fab36a1dcd2afbce0e3fe915",
+      "key": "AST"
+    },
+    {
+      "source": "cf52cf996fecbb0d9aea0be9",
+      "target": "44349320bb47c274cf322e3c",
+      "key": "AST"
+    },
+    {
+      "source": "cf52cf996fecbb0d9aea0be9",
+      "target": "26c1255b1adc141db6fef008",
+      "key": "AST"
+    },
+    {
+      "source": "640bbf14a1de53753e065fa6",
+      "target": "e5f7aba642f75329ea1f8262",
+      "key": "AST"
+    },
+    {
+      "source": "4cab14e3d20e30fb9a3dd4c5",
+      "target": "82966e3d000c5ed40995cb36",
+      "key": "AST"
+    },
+    {
+      "source": "4cab14e3d20e30fb9a3dd4c5",
+      "target": "55bf48da5eef594af1085d9a",
+      "key": "CF"
+    },
+    {
+      "source": "82966e3d000c5ed40995cb36",
+      "target": "dcee4af70cd848ddb01cd6a6",
+      "key": "AST"
+    },
+    {
+      "source": "82966e3d000c5ed40995cb36",
+      "target": "bb099b86e59138c67f43b1e5",
+      "key": "AST"
+    },
+    {
+      "source": "82966e3d000c5ed40995cb36",
+      "target": "b368ed2443217d6f19dc4f37",
+      "key": "AST"
+    },
+    {
+      "source": "55bf48da5eef594af1085d9a",
+      "target": "9e4426f28eb0df4ec8426a34",
+      "key": "AST"
+    },
+    {
+      "source": "55bf48da5eef594af1085d9a",
+      "target": "1ecbf02681757434fd8da488",
+      "key": "AST"
+    },
+    {
+      "source": "55bf48da5eef594af1085d9a",
+      "target": "7ac6fb6db9ce95ed9d966c70",
+      "key": "AST"
+    },
+    {
+      "source": "55bf48da5eef594af1085d9a",
+      "target": "cc2e6341872b0b9184675910",
+      "key": "AST"
+    },
+    {
+      "source": "55bf48da5eef594af1085d9a",
+      "target": "c3e971409ddbbed259b53e03",
+      "key": "AST"
+    },
+    {
+      "source": "55bf48da5eef594af1085d9a",
+      "target": "1034d51123ebb6185988cb36",
+      "key": "AST"
+    },
+    {
+      "source": "55bf48da5eef594af1085d9a",
+      "target": "67c66844e02b4e5f30a6e024",
+      "key": "CF"
+    },
+    {
+      "source": "9e4426f28eb0df4ec8426a34",
+      "target": "123386a213623a7c31434d31",
+      "key": "CF"
+    },
+    {
+      "source": "1034d51123ebb6185988cb36",
+      "target": "123386a213623a7c31434d31",
+      "key": "AST"
+    },
+    {
+      "source": "1034d51123ebb6185988cb36",
+      "target": "1db72e0805fa7b7a8620c663",
+      "key": "AST"
+    },
+    {
+      "source": "123386a213623a7c31434d31",
+      "target": "c9ddbf4f77d219f909e7ff65",
+      "key": "AST"
+    },
+    {
+      "source": "123386a213623a7c31434d31",
+      "target": "6c5f624125a013474ca0e964",
+      "key": "AST"
+    },
+    {
+      "source": "123386a213623a7c31434d31",
+      "target": "4b3dca76683b2a195ace3139",
+      "key": "AST"
+    },
+    {
+      "source": "123386a213623a7c31434d31",
+      "target": "e25d45b26f6cb9245fe54b1a",
+      "key": "AST"
+    },
+    {
+      "source": "123386a213623a7c31434d31",
+      "target": "49973d55084cfe4ab255462f",
+      "key": "AST"
+    },
+    {
+      "source": "123386a213623a7c31434d31",
+      "target": "d2954398eb4882781e93c3d9",
+      "key": "AST"
+    },
+    {
+      "source": "123386a213623a7c31434d31",
+      "target": "3fefa984fc6fb9b7304111f3",
+      "key": "AST"
+    },
+    {
+      "source": "123386a213623a7c31434d31",
+      "target": "1db72e0805fa7b7a8620c663",
+      "key": "CF"
+    },
+    {
+      "source": "c9ddbf4f77d219f909e7ff65",
+      "target": "52fbbc72936b924a4377e150",
+      "key": "CF"
+    },
+    {
+      "source": "49973d55084cfe4ab255462f",
+      "target": "9b242376575ad73245cecbab",
+      "key": "AST"
+    },
+    {
+      "source": "49973d55084cfe4ab255462f",
+      "target": "52fbbc72936b924a4377e150",
+      "key": "AST"
+    },
+    {
+      "source": "49973d55084cfe4ab255462f",
+      "target": "809f820dbaec678a2d0f4394",
+      "key": "AST"
+    },
+    {
+      "source": "49973d55084cfe4ab255462f",
+      "target": "a4f9922b90a9a7fc09df0cba",
+      "key": "AST"
+    },
+    {
+      "source": "49973d55084cfe4ab255462f",
+      "target": "1ebc195c1d38713b03437669",
+      "key": "AST"
+    },
+    {
+      "source": "52fbbc72936b924a4377e150",
+      "target": "a4f9922b90a9a7fc09df0cba",
+      "key": "CF"
+    },
+    {
+      "source": "a4f9922b90a9a7fc09df0cba",
+      "target": "0d397e3728a687a911652d6f",
+      "key": "AST"
+    },
+    {
+      "source": "a4f9922b90a9a7fc09df0cba",
+      "target": "5bdcd8d72b8e8b8e1627583e",
+      "key": "AST"
+    },
+    {
+      "source": "a4f9922b90a9a7fc09df0cba",
+      "target": "13358381e381467ccd52a723",
+      "key": "AST"
+    },
+    {
+      "source": "a4f9922b90a9a7fc09df0cba",
+      "target": "6c89b88da6a5aabe6aaa2404",
+      "key": "CF"
+    },
+    {
+      "source": "3fefa984fc6fb9b7304111f3",
+      "target": "6c89b88da6a5aabe6aaa2404",
+      "key": "AST"
+    },
+    {
+      "source": "6c89b88da6a5aabe6aaa2404",
+      "target": "bc5e9646f89861a5fe4e06fc",
+      "key": "AST"
+    },
+    {
+      "source": "6c89b88da6a5aabe6aaa2404",
+      "target": "6c5f624125a013474ca0e964",
+      "key": "CF"
+    },
+    {
+      "source": "bc5e9646f89861a5fe4e06fc",
+      "target": "2edcfb7eeadb70c8d24673e4",
+      "key": "AST"
+    },
+    {
+      "source": "bc5e9646f89861a5fe4e06fc",
+      "target": "254b9e9ed0b531324f3ee0e7",
+      "key": "AST"
+    },
+    {
+      "source": "bc5e9646f89861a5fe4e06fc",
+      "target": "ac726cda5393a836dbf1a0db",
+      "key": "AST"
+    },
+    {
+      "source": "2edcfb7eeadb70c8d24673e4",
+      "target": "99e843d43ca15e55edfa2951",
+      "key": "AST"
+    },
+    {
+      "source": "2edcfb7eeadb70c8d24673e4",
+      "target": "e62821066c5f006446ffbeb6",
+      "key": "AST"
+    },
+    {
+      "source": "2edcfb7eeadb70c8d24673e4",
+      "target": "aac8868b62d5b0b9da0f4ad2",
+      "key": "AST"
+    },
+    {
+      "source": "1db72e0805fa7b7a8620c663",
+      "target": "aa608bcbc1fd8a4ab06e93e9",
+      "key": "AST"
+    },
+    {
+      "source": "1db72e0805fa7b7a8620c663",
+      "target": "3423200920714671c376eb76",
+      "key": "AST"
+    },
+    {
+      "source": "1db72e0805fa7b7a8620c663",
+      "target": "aaac964820c0117c133a2f6c",
+      "key": "AST"
+    },
+    {
+      "source": "1db72e0805fa7b7a8620c663",
+      "target": "c17233a490bb528cfbe4d7d2",
+      "key": "AST"
+    },
+    {
+      "source": "1db72e0805fa7b7a8620c663",
+      "target": "2bdcc9be5a237c3a6730e571",
+      "key": "AST"
+    },
+    {
+      "source": "1db72e0805fa7b7a8620c663",
+      "target": "e470569065c5ff0d6a35943b",
+      "key": "AST"
+    },
+    {
+      "source": "1db72e0805fa7b7a8620c663",
+      "target": "d25e7522cde6fa2a6aed88e5",
+      "key": "AST"
+    },
+    {
+      "source": "1db72e0805fa7b7a8620c663",
+      "target": "1ecbf02681757434fd8da488",
+      "key": "CF"
+    },
+    {
+      "source": "aa608bcbc1fd8a4ab06e93e9",
+      "target": "1c6d79cfa444f8f1e53c8c6a",
+      "key": "CF"
+    },
+    {
+      "source": "2bdcc9be5a237c3a6730e571",
+      "target": "9cfd7272570535e089f8a997",
+      "key": "AST"
+    },
+    {
+      "source": "2bdcc9be5a237c3a6730e571",
+      "target": "1c6d79cfa444f8f1e53c8c6a",
+      "key": "AST"
+    },
+    {
+      "source": "2bdcc9be5a237c3a6730e571",
+      "target": "36fb840540fe302958e6ffd1",
+      "key": "AST"
+    },
+    {
+      "source": "1c6d79cfa444f8f1e53c8c6a",
+      "target": "78f63bf3b5696b6f5905ae19",
+      "key": "CF"
+    },
+    {
+      "source": "d25e7522cde6fa2a6aed88e5",
+      "target": "bbd6bf4d07e8ab46a8954d9a",
+      "key": "AST"
+    },
+    {
+      "source": "bbd6bf4d07e8ab46a8954d9a",
+      "target": "06a44806b571ea2269f5e6f6",
+      "key": "AST"
+    },
+    {
+      "source": "bbd6bf4d07e8ab46a8954d9a",
+      "target": "78f63bf3b5696b6f5905ae19",
+      "key": "AST"
+    },
+    {
+      "source": "bbd6bf4d07e8ab46a8954d9a",
+      "target": "f3e2a3bea05ff2fa9a08c720",
+      "key": "AST"
+    },
+    {
+      "source": "bbd6bf4d07e8ab46a8954d9a",
+      "target": "06912692faf031fdcba9d243",
+      "key": "AST"
+    },
+    {
+      "source": "bbd6bf4d07e8ab46a8954d9a",
+      "target": "9007fe7d3e01ef08d19471e1",
+      "key": "AST"
+    },
+    {
+      "source": "bbd6bf4d07e8ab46a8954d9a",
+      "target": "e30a1abaac8ea70a407a5617",
+      "key": "AST"
+    },
+    {
+      "source": "78f63bf3b5696b6f5905ae19",
+      "target": "0a4c54aa434ca0a38a130198",
+      "key": "AST"
+    },
+    {
+      "source": "78f63bf3b5696b6f5905ae19",
+      "target": "531fc2aaa85651c8cf28810b",
+      "key": "AST"
+    },
+    {
+      "source": "78f63bf3b5696b6f5905ae19",
+      "target": "e85fa7be84a304c83311f4c5",
+      "key": "AST"
+    },
+    {
+      "source": "78f63bf3b5696b6f5905ae19",
+      "target": "c07b227f8facb7c101ef9ffe",
+      "key": "CF"
+    },
+    {
+      "source": "78f63bf3b5696b6f5905ae19",
+      "target": "a3c997b864d1f8ddeca9ab7f",
+      "key": "CF"
+    },
+    {
+      "source": "0a4c54aa434ca0a38a130198",
+      "target": "d41b85f69d91431d545ee0a9",
+      "key": "AST"
+    },
+    {
+      "source": "0a4c54aa434ca0a38a130198",
+      "target": "2436e815fc461888d5c4b23a",
+      "key": "AST"
+    },
+    {
+      "source": "0a4c54aa434ca0a38a130198",
+      "target": "cd1b5af33094645965ae8d06",
+      "key": "AST"
+    },
+    {
+      "source": "06912692faf031fdcba9d243",
+      "target": "c07b227f8facb7c101ef9ffe",
+      "key": "AST"
+    },
+    {
+      "source": "c07b227f8facb7c101ef9ffe",
+      "target": "920893ffeb7fee3c2be32497",
+      "key": "AST"
+    },
+    {
+      "source": "c07b227f8facb7c101ef9ffe",
+      "target": "f8e55599bf44172d9b7f26fe",
+      "key": "AST"
+    },
+    {
+      "source": "c07b227f8facb7c101ef9ffe",
+      "target": "3423200920714671c376eb76",
+      "key": "CF"
+    },
+    {
+      "source": "9007fe7d3e01ef08d19471e1",
+      "target": "74b90511e487ae94206e450c",
+      "key": "AST"
+    },
+    {
+      "source": "9007fe7d3e01ef08d19471e1",
+      "target": "a3c997b864d1f8ddeca9ab7f",
+      "key": "AST"
+    },
+    {
+      "source": "9007fe7d3e01ef08d19471e1",
+      "target": "845b4cb30cd3505c8f60dace",
+      "key": "AST"
+    },
+    {
+      "source": "9007fe7d3e01ef08d19471e1",
+      "target": "1597d316cc78870a5f5cebeb",
+      "key": "AST"
+    },
+    {
+      "source": "a3c997b864d1f8ddeca9ab7f",
+      "target": "bafb9dd67b6d640d5f90d871",
+      "key": "AST"
+    },
+    {
+      "source": "a3c997b864d1f8ddeca9ab7f",
+      "target": "425a9187d84b9c2f17db4b1c",
+      "key": "AST"
+    },
+    {
+      "source": "a3c997b864d1f8ddeca9ab7f",
+      "target": "0d774641acf50fd03ab5814f",
+      "key": "AST"
+    },
+    {
+      "source": "a3c997b864d1f8ddeca9ab7f",
+      "target": "1d690bfc2f6c4d9440056ebc",
+      "key": "CF"
+    },
+    {
+      "source": "a3c997b864d1f8ddeca9ab7f",
+      "target": "51b9fa86ad55ca5caec1c7f7",
+      "key": "CF"
+    },
+    {
+      "source": "bafb9dd67b6d640d5f90d871",
+      "target": "34d8581031fa78feede24d91",
+      "key": "AST"
+    },
+    {
+      "source": "bafb9dd67b6d640d5f90d871",
+      "target": "b108ff9d7309abc1cac81438",
+      "key": "AST"
+    },
+    {
+      "source": "bafb9dd67b6d640d5f90d871",
+      "target": "2cdda2585ba2fd7d99865586",
+      "key": "AST"
+    },
+    {
+      "source": "1597d316cc78870a5f5cebeb",
+      "target": "1d690bfc2f6c4d9440056ebc",
+      "key": "AST"
+    },
+    {
+      "source": "1d690bfc2f6c4d9440056ebc",
+      "target": "181fdd111a1501ae20015077",
+      "key": "AST"
+    },
+    {
+      "source": "1d690bfc2f6c4d9440056ebc",
+      "target": "9241de0c0329c1e3fec28ca1",
+      "key": "AST"
+    },
+    {
+      "source": "1d690bfc2f6c4d9440056ebc",
+      "target": "3423200920714671c376eb76",
+      "key": "CF"
+    },
+    {
+      "source": "e30a1abaac8ea70a407a5617",
+      "target": "0bb58352eb3ed7806e9cba7d",
+      "key": "AST"
+    },
+    {
+      "source": "e30a1abaac8ea70a407a5617",
+      "target": "3680ccb4c2a7b7a63fc74c76",
+      "key": "AST"
+    },
+    {
+      "source": "e30a1abaac8ea70a407a5617",
+      "target": "d9526fc7f41b4093adc4cabc",
+      "key": "AST"
+    },
+    {
+      "source": "d9526fc7f41b4093adc4cabc",
+      "target": "51b9fa86ad55ca5caec1c7f7",
+      "key": "AST"
+    },
+    {
+      "source": "51b9fa86ad55ca5caec1c7f7",
+      "target": "9e338e98cf8e66b774449092",
+      "key": "AST"
+    },
+    {
+      "source": "51b9fa86ad55ca5caec1c7f7",
+      "target": "34f8bdc7f904c5a058cbb12b",
+      "key": "AST"
+    },
+    {
+      "source": "51b9fa86ad55ca5caec1c7f7",
+      "target": "3423200920714671c376eb76",
+      "key": "CF"
+    },
+    {
+      "source": "34f8bdc7f904c5a058cbb12b",
+      "target": "c626daec2b249e039e937098",
+      "key": "AST"
+    },
+    {
+      "source": "34f8bdc7f904c5a058cbb12b",
+      "target": "55ff8ad6adc833627381ba88",
+      "key": "AST"
+    },
+    {
+      "source": "34f8bdc7f904c5a058cbb12b",
+      "target": "1b02651a273dae87eb3016bc",
+      "key": "AST"
+    },
+    {
+      "source": "c626daec2b249e039e937098",
+      "target": "b257f964aaec7811af427395",
+      "key": "AST"
+    },
+    {
+      "source": "c626daec2b249e039e937098",
+      "target": "47bba1a5d9c1ba8129f71172",
+      "key": "AST"
+    },
+    {
+      "source": "c626daec2b249e039e937098",
+      "target": "90686159e788f0915e8b4cb4",
+      "key": "AST"
+    },
+    {
+      "source": "67c66844e02b4e5f30a6e024",
+      "target": "1fc749a1ec67800cf897f1cd",
+      "key": "AST"
+    },
+    {
+      "source": "67c66844e02b4e5f30a6e024",
+      "target": "11ce0525ba3740a716efde7c",
+      "key": "AST"
+    },
+    {
+      "source": "67c66844e02b4e5f30a6e024",
+      "target": "8e6a4281e61071cd2292cc94",
+      "key": "AST"
+    },
+    {
+      "source": "67c66844e02b4e5f30a6e024",
+      "target": "41985e10e9538df65507a137",
+      "key": "AST"
+    },
+    {
+      "source": "67c66844e02b4e5f30a6e024",
+      "target": "292e75e304a24e30158b600d",
+      "key": "AST"
+    },
+    {
+      "source": "67c66844e02b4e5f30a6e024",
+      "target": "f179af722e0ba485e709e923",
+      "key": "AST"
+    },
+    {
+      "source": "67c66844e02b4e5f30a6e024",
+      "target": "0bb424548bb9adc72f5cf788",
+      "key": "CF"
+    },
+    {
+      "source": "1fc749a1ec67800cf897f1cd",
+      "target": "1fe2fdda1b47cbe85131f514",
+      "key": "CF"
+    },
+    {
+      "source": "f179af722e0ba485e709e923",
+      "target": "1fe2fdda1b47cbe85131f514",
+      "key": "AST"
+    },
+    {
+      "source": "f179af722e0ba485e709e923",
+      "target": "ccb17b1d8b183c778fb69ae8",
+      "key": "AST"
+    },
+    {
+      "source": "1fe2fdda1b47cbe85131f514",
+      "target": "dd877daeb67e61c5beea8912",
+      "key": "AST"
+    },
+    {
+      "source": "1fe2fdda1b47cbe85131f514",
+      "target": "2010f2d5dd046a37b6a56e04",
+      "key": "AST"
+    },
+    {
+      "source": "1fe2fdda1b47cbe85131f514",
+      "target": "90f77de3374e807a819ad9a1",
+      "key": "AST"
+    },
+    {
+      "source": "1fe2fdda1b47cbe85131f514",
+      "target": "f8b9dc206154a40f54b4063a",
+      "key": "AST"
+    },
+    {
+      "source": "1fe2fdda1b47cbe85131f514",
+      "target": "41aee2ea6f46026687959a4d",
+      "key": "AST"
+    },
+    {
+      "source": "1fe2fdda1b47cbe85131f514",
+      "target": "62978b7c4048d1a94200ba9d",
+      "key": "AST"
+    },
+    {
+      "source": "1fe2fdda1b47cbe85131f514",
+      "target": "53e203b2e02da2d1f26019c7",
+      "key": "AST"
+    },
+    {
+      "source": "1fe2fdda1b47cbe85131f514",
+      "target": "ccb17b1d8b183c778fb69ae8",
+      "key": "CF"
+    },
+    {
+      "source": "dd877daeb67e61c5beea8912",
+      "target": "7aa253116a67b2d45197244a",
+      "key": "CF"
+    },
+    {
+      "source": "41aee2ea6f46026687959a4d",
+      "target": "e69b974d76cde3682125dd35",
+      "key": "AST"
+    },
+    {
+      "source": "41aee2ea6f46026687959a4d",
+      "target": "7aa253116a67b2d45197244a",
+      "key": "AST"
+    },
+    {
+      "source": "41aee2ea6f46026687959a4d",
+      "target": "42b948c8a48e3e7480ee35b4",
+      "key": "AST"
+    },
+    {
+      "source": "41aee2ea6f46026687959a4d",
+      "target": "d2a89c1402736d00290e5e73",
+      "key": "AST"
+    },
+    {
+      "source": "41aee2ea6f46026687959a4d",
+      "target": "4ae858429d9096868b4b0012",
+      "key": "AST"
+    },
+    {
+      "source": "7aa253116a67b2d45197244a",
+      "target": "d2a89c1402736d00290e5e73",
+      "key": "CF"
+    },
+    {
+      "source": "d2a89c1402736d00290e5e73",
+      "target": "105dc2ab1ad9dbc6fcc4e6ea",
+      "key": "AST"
+    },
+    {
+      "source": "d2a89c1402736d00290e5e73",
+      "target": "a28a39de339c8f72bd3a7f43",
+      "key": "AST"
+    },
+    {
+      "source": "d2a89c1402736d00290e5e73",
+      "target": "e470f9c73ffebce167743ec3",
+      "key": "AST"
+    },
+    {
+      "source": "d2a89c1402736d00290e5e73",
+      "target": "465d06d48f853bcb409f7078",
+      "key": "CF"
+    },
+    {
+      "source": "53e203b2e02da2d1f26019c7",
+      "target": "465d06d48f853bcb409f7078",
+      "key": "AST"
+    },
+    {
+      "source": "465d06d48f853bcb409f7078",
+      "target": "e38508b8fe8921611ce5fa96",
+      "key": "AST"
+    },
+    {
+      "source": "465d06d48f853bcb409f7078",
+      "target": "2010f2d5dd046a37b6a56e04",
+      "key": "CF"
+    },
+    {
+      "source": "e38508b8fe8921611ce5fa96",
+      "target": "d12dc5422f5823e5e1dd56b1",
+      "key": "AST"
+    },
+    {
+      "source": "e38508b8fe8921611ce5fa96",
+      "target": "436bce4d3cc78d825c5f784f",
+      "key": "AST"
+    },
+    {
+      "source": "e38508b8fe8921611ce5fa96",
+      "target": "ffea35f53cfe3cfbe2d3c1fb",
+      "key": "AST"
+    },
+    {
+      "source": "d12dc5422f5823e5e1dd56b1",
+      "target": "ee757100d8ca69abe8b8a996",
+      "key": "AST"
+    },
+    {
+      "source": "d12dc5422f5823e5e1dd56b1",
+      "target": "fe5541767893beeceed9aee4",
+      "key": "AST"
+    },
+    {
+      "source": "d12dc5422f5823e5e1dd56b1",
+      "target": "1464c8cb6c74b02f1dbd745d",
+      "key": "AST"
+    },
+    {
+      "source": "ccb17b1d8b183c778fb69ae8",
+      "target": "81f8d36f3c60e2101baf51bf",
+      "key": "AST"
+    },
+    {
+      "source": "ccb17b1d8b183c778fb69ae8",
+      "target": "fc0cb17f047988a56404be89",
+      "key": "AST"
+    },
+    {
+      "source": "ccb17b1d8b183c778fb69ae8",
+      "target": "313f163501cd71abf78b2f56",
+      "key": "AST"
+    },
+    {
+      "source": "ccb17b1d8b183c778fb69ae8",
+      "target": "990d475676e7b067c2dc0cb3",
+      "key": "AST"
+    },
+    {
+      "source": "ccb17b1d8b183c778fb69ae8",
+      "target": "6a055c1e8992f04471bbdfc5",
+      "key": "AST"
+    },
+    {
+      "source": "ccb17b1d8b183c778fb69ae8",
+      "target": "6ab7e029d834a8b8febdb871",
+      "key": "AST"
+    },
+    {
+      "source": "ccb17b1d8b183c778fb69ae8",
+      "target": "08307ac34f2bd7e53de7bf84",
+      "key": "AST"
+    },
+    {
+      "source": "ccb17b1d8b183c778fb69ae8",
+      "target": "11ce0525ba3740a716efde7c",
+      "key": "CF"
+    },
+    {
+      "source": "81f8d36f3c60e2101baf51bf",
+      "target": "b05a52f99a60276def462bca",
+      "key": "CF"
+    },
+    {
+      "source": "6a055c1e8992f04471bbdfc5",
+      "target": "5fb5b48de7d26957dca12a2b",
+      "key": "AST"
+    },
+    {
+      "source": "6a055c1e8992f04471bbdfc5",
+      "target": "b05a52f99a60276def462bca",
+      "key": "AST"
+    },
+    {
+      "source": "6a055c1e8992f04471bbdfc5",
+      "target": "f08ceaada86a0d0451c435ee",
+      "key": "AST"
+    },
+    {
+      "source": "b05a52f99a60276def462bca",
+      "target": "ab3c47e7d11547e9e8a272c4",
+      "key": "CF"
+    },
+    {
+      "source": "08307ac34f2bd7e53de7bf84",
+      "target": "ab3c47e7d11547e9e8a272c4",
+      "key": "AST"
+    },
+    {
+      "source": "ab3c47e7d11547e9e8a272c4",
+      "target": "475d5e7ade409c962d26a477",
+      "key": "AST"
+    },
+    {
+      "source": "ab3c47e7d11547e9e8a272c4",
+      "target": "ea40ba1a801e445d23f1cc98",
+      "key": "AST"
+    },
+    {
+      "source": "ab3c47e7d11547e9e8a272c4",
+      "target": "fc0cb17f047988a56404be89",
+      "key": "CF"
+    },
+    {
+      "source": "ea40ba1a801e445d23f1cc98",
+      "target": "ff68ebe2a64ecf4cc02ec053",
+      "key": "AST"
+    },
+    {
+      "source": "ea40ba1a801e445d23f1cc98",
+      "target": "e80918890460f38e5edabc50",
+      "key": "AST"
+    },
+    {
+      "source": "ea40ba1a801e445d23f1cc98",
+      "target": "73310d797e7871ea11ec3604",
+      "key": "AST"
+    },
+    {
+      "source": "73310d797e7871ea11ec3604",
+      "target": "14852b594eb78cf36e7d79c0",
+      "key": "AST"
+    },
+    {
+      "source": "73310d797e7871ea11ec3604",
+      "target": "90f17ded14e820db4c2efcce",
+      "key": "AST"
+    },
+    {
+      "source": "73310d797e7871ea11ec3604",
+      "target": "c67a6ca9d789b69155be6a99",
+      "key": "AST"
+    },
+    {
+      "source": "14852b594eb78cf36e7d79c0",
+      "target": "d8af3856cd0859576f2fc1ce",
+      "key": "AST"
+    },
+    {
+      "source": "14852b594eb78cf36e7d79c0",
+      "target": "a8c677d25fd4182b4f96dc23",
+      "key": "AST"
+    },
+    {
+      "source": "14852b594eb78cf36e7d79c0",
+      "target": "def7504c5efcdbf781b296f9",
+      "key": "AST"
+    }
+  ]
+}
